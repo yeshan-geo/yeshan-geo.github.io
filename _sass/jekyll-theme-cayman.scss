@@ -74,10 +74,10 @@ a {
   transition: color 0.2s, background-color 0.2s, border-color 0.2s;
 
   &:hover {
-    color: rgba(247, 230, 230, 0.8);
+    color: rgba(236, 221, 238, 0.8);
     text-decoration: none;
-    background-color: rgba(247, 230, 230, 0.2);
-    border-color: rgba(247, 230, 230, 0.3);
+    background-color: rgba(236, 221, 238, 0.2);
+    border-color: rgba(236, 221, 238, 0.3);
   }
 
   + .btn {
@@ -111,6 +111,7 @@ a {
   text-align: center;
   background-color: $header-bg-color;
   background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+  height: 5rem;
 
   @include large {
     padding: 5rem 6rem;
@@ -130,15 +131,15 @@ a {
   margin-bottom: 0.1rem;
 
   @include large {
-    font-size: 3.25rem;
+    font-size: 2rem;
   }
 
   @include medium {
-    font-size: 2.25rem;
+    font-size: 1.5rem;
   }
 
   @include small {
-    font-size: 1.75rem;
+    font-size: 1rem;
   }
 }
 
@@ -148,15 +149,15 @@ a {
   opacity: 0.7;
 
   @include large {
-    font-size: 1.25rem;
+    font-size: 1rem;
   }
 
   @include medium {
-    font-size: 1.15rem;
+    font-size: 0.8rem;
   }
 
   @include small {
-    font-size: 1rem;
+    font-size: 0.6rem;
   }
 }
 

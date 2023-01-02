@@ -1,6 +1,4 @@
 
-![gateway_img](img/gateway_img.jpg)
-
 ### About
 
 My research has been broadly in the areas of data-driven geoscience and geoinformatics, with particular focus on the quantitative stratigraphy, paleoenvironment and paleoclimate. I am also interested in geospatial analytics, macroevolution, science history, and geoscience education.
