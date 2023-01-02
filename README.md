@@ -3,43 +3,8 @@
 
 ### About
 
-My research has been broadly in the areas of data-driven geoscience and geoinformatics, with particular focus on the quantitative stratigraphy, paleoenvironment and paleoclimate. I am also interested in geospatial analytics, macroevolution, science history, and geoscience education. See [this page](pages/research) for more about my research.
+My research has been broadly in the areas of data-driven geoscience and geoinformatics, with particular focus on the quantitative stratigraphy, paleoenvironment and paleoclimate. I am also interested in geospatial analytics, macroevolution, science history, and geoscience education.
+
+As Turing Award winner, Jim Gray pointed out in his 2007 talk that data-driven research is becoming the fourth paradigm of scientific research. In the context of geoscience, large datasets widely exist in different sub-disciplines. Datasets of geoscience can be generated from laboratory, surveyed in the fields, simulated by computers, or of many other origins. Although these large datasets do exist, some long-standing hypotheses in geoscience are still data-limited, because syntheses of those large datasets were previously hard. With recent improvements of computing power and storage capabilities and newly developed quantitative analytical methods, geoscientists are now able to input large datasets for better evaluating hypotheses in order to obtain more robust understandings on the earth history and earth systems. As a geologist with hybrid background in computer science, I am interested in exploring ways of developing useful data infrastructure and workflows to extract, manipulate, and analyze large geoscince-related datasets, which can help us utilize the power of data-driven methods to discover hidden patterns in the earth history and answer more scientific questions.
 
 I finished my Ph.D. in geoscience at University of Wisconsin-Madison, co-advised by [Shanan Peters](http://strata.geology.wisc.edu/) and [Shaun Marcott](https://geoscience.wisc.edu/people/marcott-shaun/). I hold a master's degree from the University of Tulsa supervised by [Bryan Tapp](https://faculty.utulsa.edu/faculty/bryan-tapp/) with a focus in geomechanics, and a B.S. degree in earth and environmental sciences from the University of Michigan. I also spent 2 years at the Pennsylvania State University where I received intensive training in GIS.
-
-### Education
-**Ph.D.**<br>	University of Wisconsin-Madison, Geoscience, 2022<br>
-  Dissertation: _A quantitative investigation of large geoscientific datasets: how records of geochronology and macroevolution are distorted by paleoclimate, paleoenvironment, and sediment preservation_ <br>Participated projects: [Sparrow](https://sparrow-data.org/), [Macrostrat](https://macrostrat.org/), [GeoDeepDive](https://geodeepdive.org/)<br>
-**M.S.**<br>	University of Tulsa, Geosciences, 2018<br>
-  Thesis: _Finite element method analysis of multi-layer buckling systems with heterogeneous matrices_ <br>
-**B.S.**<br> 	University of Michigan, Earth and Environmental Sciences, 2013-15<br>Pennsylvania State University, Geography (GIS), 2011-13
-
-### Teaching
-**University of Tulsa**<br>
-GEOL 4083 _GIS for geologists_ as substitute lecturer, Spring 2018<br>
-**University of Michigan**<br>
-UC 270 _social justice_ as teaching assistant and research facilitator, Fall 2014 and Winter 2015<br>
-**Pennsylvania State University**<br>
-GEOG 363 _GIScience core course_ as teaching intern, Fall 2012
-
-### Quantitative and IT skills
-**Programming languages**<br>
-Python, R, JavaScript, SQL, HTML/CSS; course works in C++ and Java<br>
-**Software applications**<br>
-ArcGIS, QGIS, ENVI, GeoDa, ABAQUS, COMSOL, MATLAB, Mathematica, Petrel, Petra, KINGDOM, Illustrator, CorelDraw, Photoshop, IsoplotR<br>
-**Web framework**<br>
-Vue.js, Node.js, React<br>
-**Database**<br>
-MySQL, MongoDB, Esri Geodatabase, MS Access, PostgreSQL, LipD<br>
-**Frontend, GUI, and web mapping**<br>
-HTML/CSS, Leaflet, D3.js, Mapbox, OpenLayers, Esri Storymap, Kepler.gl, Tkinter, Shiny<br>
-**Machine learning**<br>
-PyTorch, TensorFlow, Keras<br>
-**Computer science coursework**<br>
-data structure, algorithm, human-computer interaction, machine learning, artificial neural networks, object-oriented programming, numerical methods, database, data science
-
-### Community involvement:
-**Public relations director**, Geoscience Graduate Students Association (GGSA) at UW-Madison, 2021 to 2022<br>
-**Data expert** with Earth Science Information Partners (ESIP), AGU, EGU, GSA data science virtual help desk, 2020<br>
-**Co-founder and lead developer** of the [GISphere Project](https://gisphere.info/) (now one of the largest global GIS student community and information online platform), since 2019<br>
-**President**, University of Tulsa Chapter, American Association of Petroleum Geologists (AAPG), 2017 to 2018, awarded the L. Austin Weeks grant
