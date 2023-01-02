@@ -37,3 +37,31 @@ data structure, algorithm, human-computer interaction, machine learning, artific
 **Data expert** with Earth Science Information Partners (ESIP), AGU, EGU, GSA data science virtual help desk, 2020<br>
 **Co-founder and lead developer** of the [GISphere Project](https://gisphere.info/) (now one of the largest global GIS student community and information online platform), since 2019<br>
 **President**, University of Tulsa Chapter, American Association of Petroleum Geologists (AAPG), 2017 to 2018, awarded the L. Austin Weeks grant
+
+### Professional affiliations
+Geological Society of America (GSA), 2014 to 2015, 2019 to Present<br>
+American Association of Geographers (AAG), 2012 to Present<br>
+American Association of Petroleum Geologists (AAPG), 2017 to 2021<br>
+Tulsa Geological Society (TGS), 2016 to 2018<br>
+Society for Sedimentary Geology (SEPM), 2017 to 2018<br>
+North American Cartographic Information Society (NACIS), 2013 to 2017
+
+### Science communication and outreach:
+**Blogs**<br>
+Editor of GeoBadgering, the official geology outreach blog at UW-Madison, 2021<br>
+Twitter account manager and content editor, Department of Geoscience, UW-Madison, 2021 to 2022<br>
+**Online platforms in China**<br>
+Live pop-sci lecture series at _Sohu_, since 2022<br>
+Over 177 thousand followers at _Zhihu_ as a geoscience pop-sci blogger, since 2015<br>
+Geography columnist at _thePaper.cn_ with the 7-day views of articles exceed 100 thousand on average 2017 to 2020<br>
+Co-host _GISalon_ roundtable interviews at _Bilibili_ with 10 thousand followers<br>
+**Pop-sci e-books and chapters in China**<br>
+Author of the chapter _The Precambrian Time_ in the special issue of _Open Classroom: A Journey Through Time in the Chongqing Natural History Museum_, 2021<br>
+Author of the e-book _Fossil Hunters_, 2016<br>
+**Tech and outreach talks**<br>
+Guest speaker, “A review on data infrastructure in geoscience”, Chengdu University of Technology (virtually), 2021<br>
+Guest speaker, “From 4.6 billion years to 24 hours: a glance of the Earth history”, Harbin Institute of Technology – Weihai (virtually), 2021<br>
+Invited lecturer in cartography and map production, 2020 ArcGIS Geospatial Developer Summit (virtually), Esri China (now GeoScene), 2020<br>
+Guest speaker, “Famous pieces of rocks in human history”, Tulsa Rock and Mineral Society, 2018<br>
+**In press and magazines**<br>
+Multiple interviews, articles and comments on climate change and natural hazard in _Chinese National Geographic_, _Human and Nature_, and _Newton the Science World_
