@@ -1,5 +1,5 @@
 
-<img src="../img/profile_img.jpg" alt="drawing" width="200"/>
+<img src="../img/profile_img.jpg" alt="profile_pic" width="200"/>
 
 ### Education
 **Ph.D.**<br>	University of Wisconsin-Madison, Geoscience, 2022<br>
