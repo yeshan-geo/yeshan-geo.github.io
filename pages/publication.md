@@ -1,12 +1,12 @@
 ### Publications
 
 #### Research papers
-- **Ye S.**, and Peters S.E., “Bedrock geological map predictions for Phanerozoic fossil occurrences” _Paleobiology_, 2022
+- **Ye S.**, and Peters S.E., “Bedrock geological map predictions for Phanerozoic fossil occurrences” _Paleobiology_, 2023
+- Wang Y., Kang Y., Liu H., Hou C., Zhou B., **Ye S.**, Liu Y., Rao J., Pei Z., Ye X., and Gao S., “Choosing GIS graduate programs from afar: Chinese students’ perspectives” _Transactions in GIS_, 2023
 - Kang Y., Wu K., Gao S., Ng I., Rao J., **Ye S.**, Zhang F., and Fei T., “STICC: a multivariate spatial clustering method for repeated geographic pattern discovery with consideration of spatial contiguity” _International Journal of Geographical Information Science_, 2022
 
 #### Ongoing research papers
 - **Ye S.**, Cuzzone J., Marcott S.A., Licciardi J., Ward D., Heyman J., and Quinn D., “A quantitative assessment of snow shielding effects on surface exposure dating from a western North American 10Be data compilation” _Quaternary Geochronology_, under minor revision
-- Wang Y., Kang Y., Liu H., Hou C., Zhou B., **Ye S.**, Liu Y., Rao J., Pei Z., Ye X., and Gao S., “Choosing GIS graduate programs from afar: Chinese students’ perspectives” _Transactions in GIS_, in review
 - **Ye S.**, Hartman S., and Peters S.E., “Sedimentary rock quantity and the dinosaur fossil record in the Cretaceous of North America” in prep
 
 #### Conference abstracts and preprints
