@@ -7,7 +7,7 @@
 - Kang Y., Wu K., Gao S.<sup>*</sup>, Ng I., Rao J., **Ye S.**, Zhang F., and Fei T., “STICC: a multivariate spatial clustering method for repeated geographic pattern discovery with consideration of spatial contiguity” _International Journal of Geographical Information Science_, 2022
 
 #### Ongoing papers
-- **Ye S.**, Hartman S., and Peters S.E., “Sedimentary rock quantity and the dinosaur fossil record in the Cretaceous of North America” in prep
+- **Ye S.**, Hartman S., Carrano M., and Peters S.E., “Sedimentary rock quantity and the dinosaur fossil record in the Cretaceous of North America” in prep
 
 #### Conference abstracts and preprints
 - **Ye S.**, Marcott S.A., Quinn D., Cuzzone J., Heyman J., Licciardi J., Ward D., “A quantitative assessment of snow shielding effects on surface exposure dating from a western United States 10Be data compilation” _GSA Connects Oregon_ 2021
@@ -17,3 +17,8 @@
 - Quinn D., Linzmeier B., Sundell K., Bruck B., **Ye S.**, Gehrels G., Goring S., Marcott S.A., Meyers S.R., Peters S.E., Ross J.I., Schmitz M.D., Singer B., Williams J., “The Sparrow software interface for linking analytical data and metadata in laboratory archives" _EarthCube Online_ 2020
 - **Ye S.**, “Spatial assessment of induced earthquakes in North-Central Oklahoma" _AAPG Mid-Continent, Lincoln_ 2018
 - **Ye S.**, “Assessment of the MDG-2 and educational resource in Detroit, a spatial perspective" _GSP, Detroit_ 2014
+
+#### Thesis
+
+-   Ph.D. Dissertation (2022): *A quantitative investigation of large geoscientific datasets: how records of geochronology and macroevolution are distorted by paleoclimate, paleoenvironment, and sediment preservation*
+-   M.S. Thesis (2018): *Finite element method analysis of multi-layer buckling systems with heterogeneous matrices*
