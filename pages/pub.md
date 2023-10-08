@@ -1,6 +1,7 @@
 ### Publications
 
 #### Papers
+- He H., Ma C.<sup>*</sup>, **Ye S.**, Tang W., Zhou Y., Yu Z., Yi J., Hou L., Hou M., "Low Resource Chinese Geological Text Named Entity Recognition Based on Prompt Learning" _Journal of Earth Science_, 2023 (accepted, in prod.)
 - **Ye S.**<sup>*</sup>, Cuzzone J., Marcott S.A., Licciardi J., Ward D., Heyman J., and Quinn D., “A quantitative assessment of snow shielding effects on surface exposure dating from a western North American 10Be data compilation” _Quaternary Geochronology_, 2023
 - **Ye S.**<sup>*</sup>, and Peters S.E., “Bedrock geological map predictions for Phanerozoic fossil occurrences” _Paleobiology_, 2023
 - Wang Y., Kang Y.<sup>*</sup>, Liu H., Hou C., Zhou B., **Ye S.**, Liu Y., Rao J., Pei Z., Ye X., and Gao S., “Choosing GIS graduate programs from afar: Chinese students’ perspectives” _Transactions in GIS_, 2023
