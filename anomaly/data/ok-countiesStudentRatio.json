@@ -1,0 +1,2860 @@
+{
+	"type": "Topology",
+	"transform": {
+		"scale": [0.0008572257225722569, 0.00033851385138513907],
+		"translate": [-103.0014, 33.6155]
+	},
+	"objects": {
+		"counties": {
+			"type": "GeometryCollection",
+			"geometries": [
+				{
+					"type": "MultiPolygon",
+					"arcs": [[[0, 1, 2, 3]
+						]
+					],
+					"id": "1",
+					"properties": {
+						"eightyseven": "14.5",
+						"eightyeight": "14.7",
+						"eightynine": "14.3",
+						"ninety": "14.1",
+						"ninetyone": "13.9",
+						"ninetytwo": "13.6",
+						"ninetythree": "14",
+						"ninetyfour": "14.2",
+						"ninetyfive": "14.3",
+						"ninetysix": "14.3",
+						"ninetyseven": "14.2",
+						"ninetyeight": "14.2",
+						"ninetynine": "14.1",
+						"aught": "13.5",
+						"one": "13.3",
+						"two": "13.6",
+						"three": "13.9",
+						"four": "15.5",
+						"five": "13.9",
+						"six": "13.6",
+						"seven": "13.7",
+						"eight": "13.7",
+						"nine": "14.1",
+						"ten": "13.38",
+						"id": "1",
+						"county": "Adair"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[4, 5, 6, 7, 8]
+						]
+					],
+					"id": "2",
+					"properties": {
+						"eightyseven": "10.6",
+						"eightyeight": "10.3",
+						"eightynine": "11.3",
+						"ninety": "10.7",
+						"ninetyone": "11.1",
+						"ninetytwo": "11",
+						"ninetythree": "11.2",
+						"ninetyfour": "11.1",
+						"ninetyfive": "11.4",
+						"ninetysix": "12.3",
+						"ninetyseven": "13",
+						"ninetyeight": "12.9",
+						"ninetynine": "12.5",
+						"aught": "12.4",
+						"one": "11.7",
+						"two": "12.1",
+						"three": "12.7",
+						"four": "15.9",
+						"five": "13.1",
+						"six": "12.8",
+						"seven": "11.8",
+						"eight": "10.3",
+						"nine": "10.3",
+						"ten": "10.62",
+						"id": "2",
+						"county": "Alfalfa"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[9, 10, 11, 12, 13, 14]
+						]
+					],
+					"id": "3",
+					"properties": {
+						"eightyseven": "14.6",
+						"eightyeight": "13.9",
+						"eightynine": "13.8",
+						"ninety": "13.1",
+						"ninetyone": "13",
+						"ninetytwo": "12.7",
+						"ninetythree": "12.9",
+						"ninetyfour": "13.1",
+						"ninetyfive": "13.5",
+						"ninetysix": "13.7",
+						"ninetyseven": "13.4",
+						"ninetyeight": "13.8",
+						"ninetynine": "13.7",
+						"aught": "13.3",
+						"one": "13.7",
+						"two": "13.3",
+						"three": "13.1",
+						"four": "15.7",
+						"five": "14",
+						"six": "13.9",
+						"seven": "13.4",
+						"eight": "13.2",
+						"nine": "13.4",
+						"ten": "14.55",
+						"id": "3",
+						"county": "Atoka"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[15, 16, 17, 18, 19]
+						]
+					],
+					"id": "4",
+					"properties": {
+						"eightyseven": "11.4",
+						"eightyeight": "12.1",
+						"eightynine": "12.2",
+						"ninety": "10.9",
+						"ninetyone": "11.2",
+						"ninetytwo": "11.5",
+						"ninetythree": "11.5",
+						"ninetyfour": "12.1",
+						"ninetyfive": "12.5",
+						"ninetysix": "12.5",
+						"ninetyseven": "12.6",
+						"ninetyeight": "13.1",
+						"ninetynine": "12.9",
+						"aught": "13",
+						"one": "12.9",
+						"two": "12.7",
+						"three": "12.9",
+						"four": "14.5",
+						"five": "12.8",
+						"six": "12.9",
+						"seven": "12.7",
+						"eight": "11.1",
+						"nine": "10.7",
+						"ten": "10.45",
+						"id": "4",
+						"county": "Beaver"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[20, 21, 22, 23, 24, 25, 26]
+						]
+					],
+					"id": "5",
+					"properties": {
+						"eightyseven": "14.3",
+						"eightyeight": "14.5",
+						"eightynine": "14.2",
+						"ninety": "14.6",
+						"ninetyone": "14.8",
+						"ninetytwo": "14.2",
+						"ninetythree": "14.1",
+						"ninetyfour": "14.1",
+						"ninetyfive": "14",
+						"ninetysix": "14.2",
+						"ninetyseven": "13.9",
+						"ninetyeight": "14.2",
+						"ninetynine": "13.8",
+						"aught": "13.7",
+						"one": "13.5",
+						"two": "13.7",
+						"three": "14",
+						"four": "15.9",
+						"five": "15.1",
+						"six": "13.7",
+						"seven": "14",
+						"eight": "14.9",
+						"nine": "14.6",
+						"ten": "14.71",
+						"id": "5",
+						"county": "Beckham"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[27, 28, 29, 30, 31, 32]
+						]
+					],
+					"id": "6",
+					"properties": {
+						"eightyseven": "12.5",
+						"eightyeight": "13.2",
+						"eightynine": "12.2",
+						"ninety": "11.5",
+						"ninetyone": "12.1",
+						"ninetytwo": "12.7",
+						"ninetythree": "13.4",
+						"ninetyfour": "13.5",
+						"ninetyfive": "13.4",
+						"ninetysix": "13.8",
+						"ninetyseven": "13.5",
+						"ninetyeight": "13.3",
+						"ninetynine": "12.9",
+						"aught": "13",
+						"one": "12.8",
+						"two": "12.6",
+						"three": "12.6",
+						"four": "15.1",
+						"five": "12",
+						"six": "11.8",
+						"seven": "11.3",
+						"eight": "11.9",
+						"nine": "12.5",
+						"ten": "12.97",
+						"id": "6",
+						"county": "Blaine"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[33, 34, 35, 36, -12]
+						]
+					],
+					"id": "7",
+					"properties": {
+						"eightyseven": "15.9",
+						"eightyeight": "15.2",
+						"eightynine": "14.3",
+						"ninety": "13.3",
+						"ninetyone": "14.6",
+						"ninetytwo": "13.9",
+						"ninetythree": "14.2",
+						"ninetyfour": "14.6",
+						"ninetyfive": "14.8",
+						"ninetysix": "14.8",
+						"ninetyseven": "15.2",
+						"ninetyeight": "15.2",
+						"ninetynine": "15.4",
+						"aught": "15",
+						"one": "15",
+						"two": "15.2",
+						"three": "15.3",
+						"four": "17.7",
+						"five": "15.6",
+						"six": "15.5",
+						"seven": "15.2",
+						"eight": "15",
+						"nine": "14.8",
+						"ten": "14.8",
+						"id": "7",
+						"county": "Bryan"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[37, 38, 39, 40, 41, 42, -29]
+						]
+					],
+					"id": "8",
+					"properties": {
+						"eightyseven": "13.9",
+						"eightyeight": "14.1",
+						"eightynine": "13.7",
+						"ninety": "13.5",
+						"ninetyone": "14.6",
+						"ninetytwo": "13.3",
+						"ninetythree": "13.3",
+						"ninetyfour": "13.2",
+						"ninetyfive": "13.8",
+						"ninetysix": "14",
+						"ninetyseven": "14",
+						"ninetyeight": "13.7",
+						"ninetynine": "13.5",
+						"aught": "13.3",
+						"one": "13.1",
+						"two": "13",
+						"three": "13.2",
+						"four": "16.5",
+						"five": "13.9",
+						"six": "13.1",
+						"seven": "13.1",
+						"eight": "13.4",
+						"nine": "13.5",
+						"ten": "13.97",
+						"id": "8",
+						"county": "Caddo"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[43, 44, -38, -28, 45, 46]
+						]
+					],
+					"id": "9",
+					"properties": {
+						"eightyseven": "18.6",
+						"eightyeight": "18.8",
+						"eightynine": "18.6",
+						"ninety": "18.6",
+						"ninetyone": "17.9",
+						"ninetytwo": "18",
+						"ninetythree": "17.7",
+						"ninetyfour": "17.7",
+						"ninetyfive": "17.3",
+						"ninetysix": "17.4",
+						"ninetyseven": "17.2",
+						"ninetyeight": "17.2",
+						"ninetynine": "17.1",
+						"aught": "16.6",
+						"one": "16.3",
+						"two": "16.3",
+						"three": "16.7",
+						"four": "17.9",
+						"five": "16.9",
+						"six": "16.6",
+						"seven": "16.7",
+						"eight": "16.7",
+						"nine": "16.8",
+						"ten": "16.8",
+						"id": "9",
+						"county": "Canadian"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[47, 48, 49, 50, 51, 52, 53]
+						]
+					],
+					"id": "10",
+					"properties": {
+						"eightyseven": "16.9",
+						"eightyeight": "17",
+						"eightynine": "15.9",
+						"ninety": "15.6",
+						"ninetyone": "15.5",
+						"ninetytwo": "15.4",
+						"ninetythree": "15.4",
+						"ninetyfour": "15.4",
+						"ninetyfive": "15.6",
+						"ninetysix": "16.1",
+						"ninetyseven": "15.6",
+						"ninetyeight": "15.4",
+						"ninetynine": "15.2",
+						"aught": "14.7",
+						"one": "14.9",
+						"two": "15",
+						"three": "15.7",
+						"four": "18.9",
+						"five": "16.4",
+						"six": "15.6",
+						"seven": "15.2",
+						"eight": "15.3",
+						"nine": "15.2",
+						"ten": "15.05",
+						"id": "10",
+						"county": "Carter"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[-3, 54, 55, 56, 57, 58]
+						]
+					],
+					"id": "11",
+					"properties": {
+						"eightyseven": "14.6",
+						"eightyeight": "14.6",
+						"eightynine": "14.3",
+						"ninety": "14.1",
+						"ninetyone": "14.3",
+						"ninetytwo": "14.4",
+						"ninetythree": "14.3",
+						"ninetyfour": "13.9",
+						"ninetyfive": "14.1",
+						"ninetysix": "14",
+						"ninetyseven": "14.1",
+						"ninetyeight": "14",
+						"ninetynine": "14.1",
+						"aught": "14.2",
+						"one": "14.9",
+						"two": "14.5",
+						"three": "14.5",
+						"four": "15.7",
+						"five": "14.2",
+						"six": "14.3",
+						"seven": "14.3",
+						"eight": "14.9",
+						"nine": "15",
+						"ten": "14.7",
+						"id": "11",
+						"county": "Cherokee"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[59, 60, -34, -11, 61]
+						]
+					],
+					"id": "12",
+					"properties": {
+						"eightyseven": "15.2",
+						"eightyeight": "15.6",
+						"eightynine": "14.8",
+						"ninety": "14.6",
+						"ninetyone": "13.9",
+						"ninetytwo": "14.1",
+						"ninetythree": "14.1",
+						"ninetyfour": "14.4",
+						"ninetyfive": "13.9",
+						"ninetysix": "14.1",
+						"ninetyseven": "14.3",
+						"ninetyeight": "14.2",
+						"ninetynine": "13.9",
+						"aught": "13.4",
+						"one": "13.3",
+						"two": "13.3",
+						"three": "13.5",
+						"four": "16.5",
+						"five": "14.3",
+						"six": "13.9",
+						"seven": "13.8",
+						"eight": "14.4",
+						"nine": "14.4",
+						"ten": "14.62",
+						"id": "12",
+						"county": "Choctaw"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[62, 63]
+						]
+					],
+					"id": "13",
+					"properties": {
+						"eightyseven": "10.4",
+						"eightyeight": "10.6",
+						"eightynine": "10.7",
+						"ninety": "10.7",
+						"ninetyone": "10.4",
+						"ninetytwo": "10.3",
+						"ninetythree": "10.1",
+						"ninetyfour": "9.6",
+						"ninetyfive": "10.9",
+						"ninetysix": "10.7",
+						"ninetyseven": "10.5",
+						"ninetyeight": "9.6",
+						"ninetynine": "10.4",
+						"aught": "10.2",
+						"one": "9.7",
+						"two": "10.9",
+						"three": "9.8",
+						"four": "10.7",
+						"five": "10",
+						"six": "11.3",
+						"seven": "11.2",
+						"eight": "11",
+						"nine": "9.1",
+						"ten": "8.96",
+						"id": "13",
+						"county": "Cimarron"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[64, -44, 65, 66]
+						]
+					],
+					"id": "14",
+					"properties": {
+						"eightyseven": "18.7",
+						"eightyeight": "18.2",
+						"eightynine": "17.9",
+						"ninety": "18.1",
+						"ninetyone": "17.5",
+						"ninetytwo": "17.2",
+						"ninetythree": "16.8",
+						"ninetyfour": "16.1",
+						"ninetyfive": "15.9",
+						"ninetysix": "16.3",
+						"ninetyseven": "16.6",
+						"ninetyeight": "16.1",
+						"ninetynine": "16.2",
+						"aught": "16.1",
+						"one": "16.1",
+						"two": "16",
+						"three": "16.8",
+						"four": "18.3",
+						"five": "17.4",
+						"six": "17.1",
+						"seven": "16.9",
+						"eight": "17",
+						"nine": "16.4",
+						"ten": "16.26",
+						"id": "14",
+						"county": "Cleveland"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[-14, 67, 68, 69, 70]
+						]
+					],
+					"id": "15",
+					"properties": {
+						"eightyseven": "13.4",
+						"eightyeight": "12.9",
+						"eightynine": "13.3",
+						"ninety": "13.1",
+						"ninetyone": "12",
+						"ninetytwo": "13.8",
+						"ninetythree": "12.9",
+						"ninetyfour": "14.3",
+						"ninetyfive": "14.9",
+						"ninetysix": "13.9",
+						"ninetyseven": "14.5",
+						"ninetyeight": "15",
+						"ninetynine": "14.1",
+						"aught": "13.5",
+						"one": "13.2",
+						"two": "12.8",
+						"three": "14.4",
+						"four": "14.9",
+						"five": "14.2",
+						"six": "13.7",
+						"seven": "13.3",
+						"eight": "15.5",
+						"nine": "13.3",
+						"ten": "12.31",
+						"id": "15",
+						"county": "Coal"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[71, 72, 73, 74, 75, -40]
+						]
+					],
+					"id": "16",
+					"properties": {
+						"eightyseven": "17.5",
+						"eightyeight": "17.4",
+						"eightynine": "16.8",
+						"ninety": "16.9",
+						"ninetyone": "16.4",
+						"ninetytwo": "16.7",
+						"ninetythree": "17.3",
+						"ninetyfour": "17",
+						"ninetyfive": "17",
+						"ninetysix": "17.1",
+						"ninetyseven": "16.9",
+						"ninetyeight": "16.6",
+						"ninetynine": "17",
+						"aught": "16.4",
+						"one": "16.4",
+						"two": "15.6",
+						"three": "16.1",
+						"four": "17.6",
+						"five": "15.9",
+						"six": "15.3",
+						"seven": "15.3",
+						"eight": "15",
+						"nine": "15",
+						"ten": "15.06",
+						"id": "16",
+						"county": "Comanche"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[76, 77, 78, -74, 79]
+						]
+					],
+					"id": "17",
+					"properties": {
+						"eightyseven": "15.4",
+						"eightyeight": "15.6",
+						"eightynine": "15.4",
+						"ninety": "14.6",
+						"ninetyone": "15",
+						"ninetytwo": "14.5",
+						"ninetythree": "14.2",
+						"ninetyfour": "14.5",
+						"ninetyfive": "14.9",
+						"ninetysix": "14.4",
+						"ninetyseven": "13.9",
+						"ninetyeight": "14.3",
+						"ninetynine": "13.7",
+						"aught": "13.9",
+						"one": "13.5",
+						"two": "13.5",
+						"three": "13.7",
+						"four": "19.7",
+						"five": "15.2",
+						"six": "14.6",
+						"seven": "14.7",
+						"eight": "13.6",
+						"nine": "13.7",
+						"ten": "13.07",
+						"id": "17",
+						"county": "Cotton"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[80, 81, 82, 83, 84, 85]
+						]
+					],
+					"id": "18",
+					"properties": {
+						"eightyseven": "15.7",
+						"eightyeight": "15.4",
+						"eightynine": "14.2",
+						"ninety": "14.6",
+						"ninetyone": "13.9",
+						"ninetytwo": "14.2",
+						"ninetythree": "14.3",
+						"ninetyfour": "14.8",
+						"ninetyfive": "15.3",
+						"ninetysix": "15.3",
+						"ninetyseven": "15.6",
+						"ninetyeight": "15.8",
+						"ninetynine": "15.3",
+						"aught": "14.7",
+						"one": "14.1",
+						"two": "14.4",
+						"three": "15.2",
+						"four": "20.1",
+						"five": "15.3",
+						"six": "14.3",
+						"seven": "14",
+						"eight": "13.9",
+						"nine": "13.8",
+						"ten": "16.24",
+						"id": "18",
+						"county": "Craig"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[86, 87, 88, 89, 90, 91]
+						]
+					],
+					"id": "19",
+					"properties": {
+						"eightyseven": "17.9",
+						"eightyeight": "17.7",
+						"eightynine": "16.9",
+						"ninety": "16.7",
+						"ninetyone": "17",
+						"ninetytwo": "16.7",
+						"ninetythree": "16.5",
+						"ninetyfour": "16.6",
+						"ninetyfive": "16.7",
+						"ninetysix": "16.6",
+						"ninetyseven": "16.7",
+						"ninetyeight": "16.3",
+						"ninetynine": "16.5",
+						"aught": "16.2",
+						"one": "16.2",
+						"two": "16.2",
+						"three": "16.5",
+						"four": "18.3",
+						"five": "16.5",
+						"six": "15.9",
+						"seven": "15.6",
+						"eight": "15.8",
+						"nine": "15.8",
+						"ten": "15.8",
+						"id": "19",
+						"county": "Creek"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[-43, 92, -26, 93, 94, -30]
+						]
+					],
+					"id": "20",
+					"properties": {
+						"eightyseven": "14.9",
+						"eightyeight": "15",
+						"eightynine": "14.5",
+						"ninety": "14.2",
+						"ninetyone": "14.5",
+						"ninetytwo": "14.2",
+						"ninetythree": "14",
+						"ninetyfour": "13.5",
+						"ninetyfive": "13.7",
+						"ninetysix": "13.7",
+						"ninetyseven": "13.6",
+						"ninetyeight": "13.5",
+						"ninetynine": "13.7",
+						"aught": "13.7",
+						"one": "14",
+						"two": "13.9",
+						"three": "13.8",
+						"four": "14.7",
+						"five": "14.3",
+						"six": "14.1",
+						"seven": "14.4",
+						"eight": "14.5",
+						"nine": "15",
+						"ten": "14.54",
+						"id": "20",
+						"county": "Custer"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[95, -4, -59, 96, -81, 97]
+						]
+					],
+					"id": "21",
+					"properties": {
+						"eightyseven": "15.3",
+						"eightyeight": "14.5",
+						"eightynine": "14.4",
+						"ninety": "13.3",
+						"ninetyone": "14.8",
+						"ninetytwo": "15.2",
+						"ninetythree": "14.5",
+						"ninetyfour": "14.8",
+						"ninetyfive": "15",
+						"ninetysix": "15.1",
+						"ninetyseven": "14.5",
+						"ninetyeight": "14.8",
+						"ninetynine": "15.1",
+						"aught": "14.4",
+						"one": "14.3",
+						"two": "14.2",
+						"three": "15.2",
+						"four": "16.9",
+						"five": "15.5",
+						"six": "15.2",
+						"seven": "15.5",
+						"eight": "15.3",
+						"nine": "14.9",
+						"ten": "14.43",
+						"id": "21",
+						"county": "Delaware"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[-95, 98, 99, 100, 101, -31]
+						]
+					],
+					"id": "22",
+					"properties": {
+						"eightyseven": "10.6",
+						"eightyeight": "11.6",
+						"eightynine": "12",
+						"ninety": "9.9",
+						"ninetyone": "12.5",
+						"ninetytwo": "12.1",
+						"ninetythree": "11.9",
+						"ninetyfour": "12.3",
+						"ninetyfive": "12.2",
+						"ninetysix": "12",
+						"ninetyseven": "11.7",
+						"ninetyeight": "11.2",
+						"ninetynine": "10.9",
+						"aught": "9.9",
+						"one": "10.8",
+						"two": "10.3",
+						"three": "10.6",
+						"four": "18.2",
+						"five": "12.2",
+						"six": "11.7",
+						"seven": "11.9",
+						"eight": "10.4",
+						"nine": "10.8",
+						"ten": "10.78",
+						"id": "22",
+						"county": "Dewey"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[102, -100, 103, 104, -16, 105]
+						]
+					],
+					"id": "23",
+					"properties": {
+						"eightyseven": "11",
+						"eightyeight": "12.2",
+						"eightynine": "12.1",
+						"ninety": "10.5",
+						"ninetyone": "11.4",
+						"ninetytwo": "13.6",
+						"ninetythree": "11.5",
+						"ninetyfour": "10.9",
+						"ninetyfive": "11.7",
+						"ninetysix": "12",
+						"ninetyseven": "11.1",
+						"ninetyeight": "11",
+						"ninetynine": "10.4",
+						"aught": "11.1",
+						"one": "10.2",
+						"two": "10.6",
+						"three": "11",
+						"four": "19",
+						"five": "11.7",
+						"six": "11.4",
+						"seven": "11",
+						"eight": "11.6",
+						"nine": "11.8",
+						"ten": "12.42",
+						"id": "23",
+						"county": "Ellis"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[106, 107, 108, -7, 109, 110]
+						]
+					],
+					"id": "24",
+					"properties": {
+						"eightyseven": "19",
+						"eightyeight": "16.1",
+						"eightynine": "15.7",
+						"ninety": "15.7",
+						"ninetyone": "15.6",
+						"ninetytwo": "14.9",
+						"ninetythree": "15",
+						"ninetyfour": "15.4",
+						"ninetyfive": "15.3",
+						"ninetysix": "15.2",
+						"ninetyseven": "15.3",
+						"ninetyeight": "15.3",
+						"ninetynine": "15.3",
+						"aught": "14.6",
+						"one": "14.8",
+						"two": "14.9",
+						"three": "15.3",
+						"four": "17.1",
+						"five": "15.4",
+						"six": "14.7",
+						"seven": "14.3",
+						"eight": "15.1",
+						"nine": "15",
+						"ten": "15.01",
+						"id": "24",
+						"county": "Garfield"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[111, -54, 112, 113, 114, 115]
+						]
+					],
+					"id": "25",
+					"properties": {
+						"eightyseven": "15.5",
+						"eightyeight": "15.6",
+						"eightynine": "14.4",
+						"ninety": "13.3",
+						"ninetyone": "13.4",
+						"ninetytwo": "13.2",
+						"ninetythree": "14",
+						"ninetyfour": "14.3",
+						"ninetyfive": "15.1",
+						"ninetysix": "15",
+						"ninetyseven": "14.7",
+						"ninetyeight": "14.6",
+						"ninetynine": "14.3",
+						"aught": "14.8",
+						"one": "14.6",
+						"two": "14.5",
+						"three": "14.9",
+						"four": "17.3",
+						"five": "15",
+						"six": "14.5",
+						"seven": "14.6",
+						"eight": "14.8",
+						"nine": "14.4",
+						"ten": "14.45",
+						"id": "25",
+						"county": "Garvin"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[-114, 116, -72, -39, -45, 117]
+						]
+					],
+					"id": "26",
+					"properties": {
+						"eightyseven": "15.9",
+						"eightyeight": "18",
+						"eightynine": "15.5",
+						"ninety": "14.4",
+						"ninetyone": "15.7",
+						"ninetytwo": "15.2",
+						"ninetythree": "15.7",
+						"ninetyfour": "15.6",
+						"ninetyfive": "15.6",
+						"ninetysix": "15.7",
+						"ninetyseven": "15.6",
+						"ninetyeight": "15.4",
+						"ninetynine": "15.2",
+						"aught": "14.7",
+						"one": "14.7",
+						"two": "15.1",
+						"three": "15.7",
+						"four": "17.8",
+						"five": "16.4",
+						"six": "15.8",
+						"seven": "15.8",
+						"eight": "15.5",
+						"nine": "15.3",
+						"ten": "15.5",
+						"id": "26",
+						"county": "Grady"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[-110, -6, 118, 119]
+						]
+					],
+					"id": "27",
+					"properties": {
+						"eightyseven": "10.8",
+						"eightyeight": "11.4",
+						"eightynine": "10.8",
+						"ninety": "10.6",
+						"ninetyone": "10.8",
+						"ninetytwo": "10.5",
+						"ninetythree": "11.5",
+						"ninetyfour": "12.4",
+						"ninetyfive": "12.2",
+						"ninetysix": "12.9",
+						"ninetyseven": "12.7",
+						"ninetyeight": "12.5",
+						"ninetynine": "11.9",
+						"aught": "12",
+						"one": "11.6",
+						"two": "11.7",
+						"three": "11.4",
+						"four": "16.2",
+						"five": "11.4",
+						"six": "10.6",
+						"seven": "10.7",
+						"eight": "10.4",
+						"nine": "10.5",
+						"ten": "10.67",
+						"id": "27",
+						"county": "Grant"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[120, 121, 122, -22]
+						]
+					],
+					"id": "28",
+					"properties": {
+						"eightyseven": "15.2",
+						"eightyeight": "13.8",
+						"eightynine": "14.4",
+						"ninety": "13.5",
+						"ninetyone": "13.5",
+						"ninetytwo": "12.2",
+						"ninetythree": "12.7",
+						"ninetyfour": "13.3",
+						"ninetyfive": "13.7",
+						"ninetysix": "14.6",
+						"ninetyseven": "13.6",
+						"ninetyeight": "13.2",
+						"ninetynine": "12.8",
+						"aught": "12.6",
+						"one": "11.9",
+						"two": "12",
+						"three": "12.4",
+						"four": "16",
+						"five": "13.2",
+						"six": "14.2",
+						"seven": "14.1",
+						"eight": "14.5",
+						"nine": "13.2",
+						"ten": "13.07",
+						"id": "28",
+						"county": "Greer"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[-123, 123, 124, -23]
+						]
+					],
+					"id": "29",
+					"properties": {
+						"eightyseven": "11.7",
+						"eightyeight": "12.1",
+						"eightynine": "14.3",
+						"ninety": "12.9",
+						"ninetyone": "14.7",
+						"ninetytwo": "12.9",
+						"ninetythree": "13.1",
+						"ninetyfour": "13.2",
+						"ninetyfive": "14.7",
+						"ninetysix": "13.9",
+						"ninetyseven": "13.8",
+						"ninetyeight": "12.9",
+						"ninetynine": "12",
+						"aught": "11.3",
+						"one": "11.3",
+						"two": "11.6",
+						"three": "12.5",
+						"four": "13.3",
+						"five": "12.2",
+						"six": "12.7",
+						"seven": "12.3",
+						"eight": "12",
+						"nine": "11.7",
+						"ten": "11.7",
+						"id": "29",
+						"county": "Harmon"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[125, 126, 127, -106, -20]
+						]
+					],
+					"id": "30",
+					"properties": {
+						"eightyseven": "12.2",
+						"eightyeight": "14.2",
+						"eightynine": "13.7",
+						"ninety": "12.2",
+						"ninetyone": "12.3",
+						"ninetytwo": "11.7",
+						"ninetythree": "11.2",
+						"ninetyfour": "11.8",
+						"ninetyfive": "12.2",
+						"ninetysix": "12.2",
+						"ninetyseven": "14.7",
+						"ninetyeight": "13.8",
+						"ninetynine": "12.5",
+						"aught": "12.5",
+						"one": "11.3",
+						"two": "11.9",
+						"three": "11.5",
+						"four": "23.4",
+						"five": "13.4",
+						"six": "13.6",
+						"seven": "13.3",
+						"eight": "12.2",
+						"nine": "13.2",
+						"ten": "13.69",
+						"id": "30",
+						"county": "Harper"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[128, 129, 130, 131, 132, 133]
+						]
+					],
+					"id": "31",
+					"properties": {
+						"eightyseven": "14.4",
+						"eightyeight": "14.8",
+						"eightynine": "14.6",
+						"ninety": "14.9",
+						"ninetyone": "14.7",
+						"ninetytwo": "15.5",
+						"ninetythree": "14.4",
+						"ninetyfour": "14.4",
+						"ninetyfive": "14.5",
+						"ninetysix": "15.2",
+						"ninetyseven": "15.3",
+						"ninetyeight": "15.6",
+						"ninetynine": "15.6",
+						"aught": "15",
+						"one": "15.3",
+						"two": "15.1",
+						"three": "14.9",
+						"four": "18.3",
+						"five": "16.3",
+						"six": "15.8",
+						"seven": "15.2",
+						"eight": "15.6",
+						"nine": "15.6",
+						"ten": "14.63",
+						"id": "31",
+						"county": "Haskell"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[134, -70, 135, 136, 137, 138]
+						]
+					],
+					"id": "32",
+					"properties": {
+						"eightyseven": "15.6",
+						"eightyeight": "15.3",
+						"eightynine": "15.1",
+						"ninety": "15",
+						"ninetyone": "14.4",
+						"ninetytwo": "14",
+						"ninetythree": "14.2",
+						"ninetyfour": "14.5",
+						"ninetyfive": "14.7",
+						"ninetysix": "15.3",
+						"ninetyseven": "15.9",
+						"ninetyeight": "15.7",
+						"ninetynine": "14.3",
+						"aught": "14.3",
+						"one": "13.7",
+						"two": "14.1",
+						"three": "15",
+						"four": "19.3",
+						"five": "14.8",
+						"six": "15.1",
+						"seven": "14.5",
+						"eight": "14.7",
+						"nine": "14.2",
+						"ten": "13.76",
+						"id": "32",
+						"county": "Hughes"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[139, 140, 141, -124, -122]
+						]
+					],
+					"id": "33",
+					"properties": {
+						"eightyseven": "15.5",
+						"eightyeight": "15.7",
+						"eightynine": "15.3",
+						"ninety": "15",
+						"ninetyone": "14.6",
+						"ninetytwo": "15.4",
+						"ninetythree": "15.1",
+						"ninetyfour": "15.8",
+						"ninetyfive": "15.4",
+						"ninetysix": "15.8",
+						"ninetyseven": "15.9",
+						"ninetyeight": "15.7",
+						"ninetynine": "15.3",
+						"aught": "14.7",
+						"one": "14.8",
+						"two": "14.4",
+						"three": "14.8",
+						"four": "17.9",
+						"five": "15.3",
+						"six": "14.9",
+						"seven": "14.5",
+						"eight": "13.7",
+						"nine": "13.9",
+						"ten": "13.94",
+						"id": "33",
+						"county": "Jackson"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[142, 143, -77, 144, -52]
+						]
+					],
+					"id": "34",
+					"properties": {
+						"eightyseven": "13.9",
+						"eightyeight": "15.5",
+						"eightynine": "14.9",
+						"ninety": "14.6",
+						"ninetyone": "13.5",
+						"ninetytwo": "13.2",
+						"ninetythree": "13.5",
+						"ninetyfour": "12.6",
+						"ninetyfive": "12.5",
+						"ninetysix": "13.2",
+						"ninetyseven": "14",
+						"ninetyeight": "13.7",
+						"ninetynine": "13.2",
+						"aught": "12.8",
+						"one": "12.4",
+						"two": "12.6",
+						"three": "12.9",
+						"four": "13.3",
+						"five": "13.3",
+						"six": "13.8",
+						"seven": "12.8",
+						"eight": "12.4",
+						"nine": "12.5",
+						"ten": "12.82",
+						"id": "34",
+						"county": "Jefferson"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[-68, -13, -37, 145, -49, 146, 147]
+						]
+					],
+					"id": "35",
+					"properties": {
+						"eightyseven": "14.6",
+						"eightyeight": "13.5",
+						"eightynine": "12.5",
+						"ninety": "12.7",
+						"ninetyone": "12.5",
+						"ninetytwo": "13.2",
+						"ninetythree": "13.7",
+						"ninetyfour": "13.9",
+						"ninetyfive": "13.6",
+						"ninetysix": "14.1",
+						"ninetyseven": "13.5",
+						"ninetyeight": "13.5",
+						"ninetynine": "13.2",
+						"aught": "13.3",
+						"one": "12.8",
+						"two": "12.8",
+						"three": "13.2",
+						"four": "14.8",
+						"five": "13.9",
+						"six": "13.1",
+						"seven": "13",
+						"eight": "13.2",
+						"nine": "13.6",
+						"ten": "13.31",
+						"id": "35",
+						"county": "Johnston"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[148, -120, 149, 150]
+						]
+					],
+					"id": "36",
+					"properties": {
+						"eightyseven": "18.3",
+						"eightyeight": "17.9",
+						"eightynine": "18.3",
+						"ninety": "17.6",
+						"ninetyone": "17.7",
+						"ninetytwo": "17.8",
+						"ninetythree": "17.5",
+						"ninetyfour": "17",
+						"ninetyfive": "16.5",
+						"ninetysix": "16.9",
+						"ninetyseven": "16",
+						"ninetyeight": "17.7",
+						"ninetynine": "16.7",
+						"aught": "15.8",
+						"one": "16",
+						"two": "15.7",
+						"three": "16.2",
+						"four": "17.9",
+						"five": "15.6",
+						"six": "15.3",
+						"seven": "15.2",
+						"eight": "15.3",
+						"nine": "15.3",
+						"ten": "15.25",
+						"id": "36",
+						"county": "Kay"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[-46, -33, 151, -108, 152]
+						]
+					],
+					"id": "37",
+					"properties": {
+						"eightyseven": "13.1",
+						"eightyeight": "14.8",
+						"eightynine": "13.8",
+						"ninety": "13.3",
+						"ninetyone": "13.9",
+						"ninetytwo": "15.6",
+						"ninetythree": "14.7",
+						"ninetyfour": "15.3",
+						"ninetyfive": "14.6",
+						"ninetysix": "14.4",
+						"ninetyseven": "14.4",
+						"ninetyeight": "15.1",
+						"ninetynine": "14.6",
+						"aught": "14.2",
+						"one": "14.3",
+						"two": "14.1",
+						"three": "13.9",
+						"four": "18.2",
+						"five": "14.8",
+						"six": "14.2",
+						"seven": "14.5",
+						"eight": "14.6",
+						"nine": "14.4",
+						"ten": "13.63",
+						"id": "37",
+						"county": "Kingfisher"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[-76, 153, -140, -121, -21, 154, -41]
+						]
+					],
+					"id": "38",
+					"properties": {
+						"eightyseven": "14.1",
+						"eightyeight": "14.1",
+						"eightynine": "14",
+						"ninety": "13.9",
+						"ninetyone": "15.1",
+						"ninetytwo": "14.3",
+						"ninetythree": "14.4",
+						"ninetyfour": "14.2",
+						"ninetyfive": "14.8",
+						"ninetysix": "12.7",
+						"ninetyseven": "13.1",
+						"ninetyeight": "12.4",
+						"ninetynine": "12.8",
+						"aught": "12.3",
+						"one": "12.5",
+						"two": "12.8",
+						"three": "14.1",
+						"four": "18",
+						"five": "14.9",
+						"six": "13.8",
+						"seven": "13.5",
+						"eight": "13.3",
+						"nine": "13.3",
+						"ten": "12.89",
+						"id": "38",
+						"county": "Kiowa"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[155, 156, 157, -131]
+						]
+					],
+					"id": "39",
+					"properties": {
+						"eightyseven": "14.7",
+						"eightyeight": "15",
+						"eightynine": "14.7",
+						"ninety": "14.3",
+						"ninetyone": "13.7",
+						"ninetytwo": "13.9",
+						"ninetythree": "14.1",
+						"ninetyfour": "14.8",
+						"ninetyfive": "14.6",
+						"ninetysix": "15.1",
+						"ninetyseven": "14.8",
+						"ninetyeight": "15.4",
+						"ninetynine": "14.6",
+						"aught": "13.9",
+						"one": "14.3",
+						"two": "14.2",
+						"three": "14.7",
+						"four": "17.8",
+						"five": "14.6",
+						"six": "14.6",
+						"seven": "14.1",
+						"eight": "14.6",
+						"nine": "13.5",
+						"ten": "13.03",
+						"id": "39",
+						"county": "Latimer"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[158, 159, 160, -156, -130, 161]
+						]
+					],
+					"id": "40",
+					"properties": {
+						"eightyseven": "16.1",
+						"eightyeight": "16",
+						"eightynine": "15.4",
+						"ninety": "15",
+						"ninetyone": "15.2",
+						"ninetytwo": "14.8",
+						"ninetythree": "14.5",
+						"ninetyfour": "14.8",
+						"ninetyfive": "14.8",
+						"ninetysix": "15.2",
+						"ninetyseven": "14.6",
+						"ninetyeight": "14.6",
+						"ninetynine": "14.5",
+						"aught": "13.9",
+						"one": "13.8",
+						"two": "13.9",
+						"three": "13.9",
+						"four": "16.3",
+						"five": "14.8",
+						"six": "14.5",
+						"seven": "14.8",
+						"eight": "14.7",
+						"nine": "14.6",
+						"ten": "14.31",
+						"id": "40",
+						"county": "Le Flore"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[162, 163, 164, 165, 166, -90]
+						]
+					],
+					"id": "41",
+					"properties": {
+						"eightyseven": "16.9",
+						"eightyeight": "16.8",
+						"eightynine": "15.8",
+						"ninety": "15.5",
+						"ninetyone": "15.9",
+						"ninetytwo": "15.1",
+						"ninetythree": "15.1",
+						"ninetyfour": "15.4",
+						"ninetyfive": "16",
+						"ninetysix": "15.6",
+						"ninetyseven": "15.5",
+						"ninetyeight": "15.9",
+						"ninetynine": "15.8",
+						"aught": "15.5",
+						"one": "15.3",
+						"two": "15.1",
+						"three": "15.6",
+						"four": "19.9",
+						"five": "16.3",
+						"six": "15.8",
+						"seven": "15.7",
+						"eight": "15.2",
+						"nine": "15.1",
+						"ten": "15.07",
+						"id": "41",
+						"county": "Lincoln"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[167, -166, 168, -153, -107, 169]
+						]
+					],
+					"id": "42",
+					"properties": {
+						"eightyseven": "17",
+						"eightyeight": "16.5",
+						"eightynine": "15.6",
+						"ninety": "15.6",
+						"ninetyone": "16.1",
+						"ninetytwo": "15.6",
+						"ninetythree": "15.4",
+						"ninetyfour": "14.8",
+						"ninetyfive": "14.9",
+						"ninetysix": "14.6",
+						"ninetyseven": "14.8",
+						"ninetyeight": "14.7",
+						"ninetynine": "14.7",
+						"aught": "14.1",
+						"one": "13.9",
+						"two": "13.7",
+						"three": "14.8",
+						"four": "15.7",
+						"five": "16.8",
+						"six": "15.8",
+						"seven": "15.1",
+						"eight": "15.3",
+						"nine": "15",
+						"ten": "14.81",
+						"id": "42",
+						"county": "Logan"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[170, 171, -143, -51]
+						]
+					],
+					"id": "43",
+					"properties": {
+						"eightyseven": "15.2",
+						"eightyeight": "14.8",
+						"eightynine": "15.4",
+						"ninety": "15",
+						"ninetyone": "14.4",
+						"ninetytwo": "14.3",
+						"ninetythree": "14",
+						"ninetyfour": "14.1",
+						"ninetyfive": "14.4",
+						"ninetysix": "14.5",
+						"ninetyseven": "15.2",
+						"ninetyeight": "15.7",
+						"ninetynine": "14.7",
+						"aught": "15.1",
+						"one": "14.8",
+						"two": "14.6",
+						"three": "15",
+						"four": "16.2",
+						"five": "16.3",
+						"six": "15.2",
+						"seven": "16",
+						"eight": "15.2",
+						"nine": "15.2",
+						"ten": "15.25",
+						"id": "43",
+						"county": "Love"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[172, -8, -109, -152, -32, -102, 173]
+						]
+					],
+					"id": "44",
+					"properties": {
+						"eightyseven": "11.6",
+						"eightyeight": "12.1",
+						"eightynine": "13.1",
+						"ninety": "12.4",
+						"ninetyone": "12.3",
+						"ninetytwo": "12.8",
+						"ninetythree": "13.4",
+						"ninetyfour": "13.4",
+						"ninetyfive": "14.2",
+						"ninetysix": "14.1",
+						"ninetyseven": "14.3",
+						"ninetyeight": "14.7",
+						"ninetynine": "14",
+						"aught": "13.2",
+						"one": "13.5",
+						"two": "13.2",
+						"three": "14",
+						"four": "18.3",
+						"five": "15.3",
+						"six": "14.9",
+						"seven": "14.3",
+						"eight": "12.8",
+						"nine": "12.7",
+						"ten": "12.2",
+						"id": "44",
+						"county": "Major"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[-146, -36, 174, -171, -50]
+						]
+					],
+					"id": "45",
+					"properties": {
+						"eightyseven": "13.3",
+						"eightyeight": "16",
+						"eightynine": "15.9",
+						"ninety": "15.6",
+						"ninetyone": "15.7",
+						"ninetytwo": "14",
+						"ninetythree": "14.2",
+						"ninetyfour": "14.7",
+						"ninetyfive": "15.2",
+						"ninetysix": "15.4",
+						"ninetyseven": "14.9",
+						"ninetyeight": "15.5",
+						"ninetynine": "15.9",
+						"aught": "15.4",
+						"one": "15.2",
+						"two": "14.5",
+						"three": "15.2",
+						"four": "18.3",
+						"five": "17.7",
+						"six": "16.8",
+						"seven": "16.2",
+						"eight": "15.6",
+						"nine": "15.6",
+						"ten": "15.24",
+						"id": "45",
+						"county": "Marshall"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[-58, 175, 176, -82, -97]
+						]
+					],
+					"id": "46",
+					"properties": {
+						"eightyseven": "15.9",
+						"eightyeight": "16.1",
+						"eightynine": "15.8",
+						"ninety": "15.6",
+						"ninetyone": "15.3",
+						"ninetytwo": "15.4",
+						"ninetythree": "15.7",
+						"ninetyfour": "15.7",
+						"ninetyfive": "15.6",
+						"ninetysix": "15.5",
+						"ninetyseven": "15.6",
+						"ninetyeight": "15.3",
+						"ninetynine": "15.3",
+						"aught": "14.9",
+						"one": "14.8",
+						"two": "14.7",
+						"three": "14.8",
+						"four": "16.8",
+						"five": "15.7",
+						"six": "15.4",
+						"seven": "14.9",
+						"eight": "14.5",
+						"nine": "15.1",
+						"ten": "15.33",
+						"id": "46",
+						"county": "Mayes"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[-65, 177, 178, -115, -118]
+						]
+					],
+					"id": "47",
+					"properties": {
+						"eightyseven": "17.3",
+						"eightyeight": "17.3",
+						"eightynine": "16.3",
+						"ninety": "16",
+						"ninetyone": "17.6",
+						"ninetytwo": "15.8",
+						"ninetythree": "16",
+						"ninetyfour": "16.2",
+						"ninetyfive": "16.6",
+						"ninetysix": "16",
+						"ninetyseven": "16.2",
+						"ninetyeight": "15.9",
+						"ninetynine": "15.8",
+						"aught": "15.3",
+						"one": "15.1",
+						"two": "15.1",
+						"three": "15",
+						"four": "18.3",
+						"five": "16.7",
+						"six": "15.8",
+						"seven": "15.2",
+						"eight": "15.2",
+						"nine": "15.7",
+						"ten": "15.85",
+						"id": "47",
+						"county": "McClain"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[179, -60, 180, -160]
+						]
+					],
+					"id": "48",
+					"properties": {
+						"eightyseven": "14.6",
+						"eightyeight": "14.9",
+						"eightynine": "14.6",
+						"ninety": "14",
+						"ninetyone": "13.9",
+						"ninetytwo": "14",
+						"ninetythree": "14.1",
+						"ninetyfour": "14.1",
+						"ninetyfive": "14.3",
+						"ninetysix": "14.2",
+						"ninetyseven": "14.2",
+						"ninetyeight": "14.1",
+						"ninetynine": "13.9",
+						"aught": "14.1",
+						"one": "13.9",
+						"two": "13.8",
+						"three": "13.9",
+						"four": "15.9",
+						"five": "14",
+						"six": "13.5",
+						"seven": "13.6",
+						"eight": "13.7",
+						"nine": "13.7",
+						"ten": "13.49",
+						"id": "48",
+						"county": "McCurtain"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[-133, 181, -139, 182, 183, 184]
+						]
+					],
+					"id": "49",
+					"properties": {
+						"eightyseven": "15.7",
+						"eightyeight": "15.7",
+						"eightynine": "14.8",
+						"ninety": "15.1",
+						"ninetyone": "14.6",
+						"ninetytwo": "14.2",
+						"ninetythree": "14.2",
+						"ninetyfour": "14.7",
+						"ninetyfive": "15.4",
+						"ninetysix": "14.5",
+						"ninetyseven": "14.4",
+						"ninetyeight": "14.6",
+						"ninetynine": "14.3",
+						"aught": "14.2",
+						"one": "14.2",
+						"two": "14.3",
+						"three": "14.6",
+						"four": "16.1",
+						"five": "15.4",
+						"six": "15",
+						"seven": "14.8",
+						"eight": "14.6",
+						"nine": "14.9",
+						"ten": "15.47",
+						"id": "49",
+						"county": "McIntosh"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[185, -147, -48, -112]
+						]
+					],
+					"id": "50",
+					"properties": {
+						"eightyseven": "16.8",
+						"eightyeight": "17",
+						"eightynine": "16.2",
+						"ninety": "15.7",
+						"ninetyone": "15.8",
+						"ninetytwo": "15.6",
+						"ninetythree": "14.8",
+						"ninetyfour": "16.1",
+						"ninetyfive": "16.2",
+						"ninetysix": "17.5",
+						"ninetyseven": "16.7",
+						"ninetyeight": "16.2",
+						"ninetynine": "16.3",
+						"aught": "16.2",
+						"one": "16",
+						"two": "15.7",
+						"three": "16.7",
+						"four": "19.7",
+						"five": "17",
+						"six": "17.1",
+						"seven": "16.9",
+						"eight": "16.8",
+						"nine": "16.9",
+						"ten": "16.85",
+						"id": "50",
+						"county": "Murray"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[-56, 186, -134, -185, 187, 188]
+						]
+					],
+					"id": "51",
+					"properties": {
+						"eightyseven": "17.6",
+						"eightyeight": "17.2",
+						"eightynine": "16.6",
+						"ninety": "16.6",
+						"ninetyone": "16.1",
+						"ninetytwo": "16",
+						"ninetythree": "15.8",
+						"ninetyfour": "16",
+						"ninetyfive": "16.2",
+						"ninetysix": "15.9",
+						"ninetyseven": "15.5",
+						"ninetyeight": "15.4",
+						"ninetynine": "15.7",
+						"aught": "15.7",
+						"one": "15.5",
+						"two": "15.8",
+						"three": "16.2",
+						"four": "18.2",
+						"five": "16.3",
+						"six": "15.8",
+						"seven": "16.2",
+						"eight": "16.4",
+						"nine": "16.1",
+						"ten": "15.98",
+						"id": "51",
+						"county": "Muskogee"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[189, 190, 191, -170, -111, -149]
+						]
+					],
+					"id": "52",
+					"properties": {
+						"eightyseven": "12.3",
+						"eightyeight": "12.7",
+						"eightynine": "13.1",
+						"ninety": "12.7",
+						"ninetyone": "13.7",
+						"ninetytwo": "13.8",
+						"ninetythree": "13.7",
+						"ninetyfour": "13.7",
+						"ninetyfive": "14",
+						"ninetysix": "14.4",
+						"ninetyseven": "14",
+						"ninetyeight": "13.7",
+						"ninetynine": "12.9",
+						"aught": "13",
+						"one": "12.9",
+						"two": "12.7",
+						"three": "13.4",
+						"four": "14.8",
+						"five": "14.1",
+						"six": "13.2",
+						"seven": "12.6",
+						"eight": "13.6",
+						"nine": "13.5",
+						"ten": "13.11",
+						"id": "52",
+						"county": "Noble"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[192, 193, 194, -84]
+						]
+					],
+					"id": "53",
+					"properties": {
+						"eightyseven": "14.6",
+						"eightyeight": "14.9",
+						"eightynine": "13.9",
+						"ninety": "13.8",
+						"ninetyone": "14.1",
+						"ninetytwo": "14.5",
+						"ninetythree": "15.2",
+						"ninetyfour": "14.2",
+						"ninetyfive": "15.2",
+						"ninetysix": "15.3",
+						"ninetyseven": "14.9",
+						"ninetyeight": "14.3",
+						"ninetynine": "14.8",
+						"aught": "15.6",
+						"one": "15",
+						"two": "14.9",
+						"three": "15.3",
+						"four": "17.2",
+						"five": "15.4",
+						"six": "13.9",
+						"seven": "14.2",
+						"eight": "13.8",
+						"nine": "14.2",
+						"ten": "13.88",
+						"id": "53",
+						"county": "Nowata"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[195, -183, -138, 196, 197, -163, -89]
+						]
+					],
+					"id": "54",
+					"properties": {
+						"eightyseven": "13.8",
+						"eightyeight": "14.3",
+						"eightynine": "14.2",
+						"ninety": "13.9",
+						"ninetyone": "13.3",
+						"ninetytwo": "13.3",
+						"ninetythree": "12.9",
+						"ninetyfour": "13.8",
+						"ninetyfive": "13.5",
+						"ninetysix": "14.4",
+						"ninetyseven": "15",
+						"ninetyeight": "14.5",
+						"ninetynine": "14.1",
+						"aught": "13.4",
+						"one": "13.3",
+						"two": "13.1",
+						"three": "14.7",
+						"four": "18.2",
+						"five": "14.7",
+						"six": "13.9",
+						"seven": "13.1",
+						"eight": "13.7",
+						"nine": "13.7",
+						"ten": "14.11",
+						"id": "54",
+						"county": "Okfuskee"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[198, -66, -47, -169, -165]
+						]
+					],
+					"id": "55",
+					"properties": {
+						"eightyseven": "20.2",
+						"eightyeight": "19.6",
+						"eightynine": "19.2",
+						"ninety": "18.9",
+						"ninetyone": "17.9",
+						"ninetytwo": "17.2",
+						"ninetythree": "17",
+						"ninetyfour": "16.7",
+						"ninetyfive": "16.4",
+						"ninetysix": "16.6",
+						"ninetyseven": "16.9",
+						"ninetyeight": "16.3",
+						"ninetynine": "16.1",
+						"aught": "15.8",
+						"one": "14.7",
+						"two": "15.7",
+						"three": "16.3",
+						"four": "18",
+						"five": "17.7",
+						"six": "16.8",
+						"seven": "16.6",
+						"eight": "16.3",
+						"nine": "16.4",
+						"ten": "16.23",
+						"id": "55",
+						"county": "Oklahoma"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[199, -188, -184, -196, -88, 200]
+						]
+					],
+					"id": "56",
+					"properties": {
+						"eightyseven": "16.1",
+						"eightyeight": "15.6",
+						"eightynine": "15.3",
+						"ninety": "14.9",
+						"ninetyone": "15.3",
+						"ninetytwo": "15.4",
+						"ninetythree": "15.4",
+						"ninetyfour": "15.6",
+						"ninetyfive": "15.4",
+						"ninetysix": "15.7",
+						"ninetyseven": "15.6",
+						"ninetyeight": "15.4",
+						"ninetynine": "15.5",
+						"aught": "14.8",
+						"one": "14.7",
+						"two": "14.6",
+						"three": "15",
+						"four": "17.1",
+						"five": "15.1",
+						"six": "15.1",
+						"seven": "15.1",
+						"eight": "14.7",
+						"nine": "14.8",
+						"ten": "14.29",
+						"id": "56",
+						"county": "Okmulgee"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[201, 202, -190, -151, 203, 204]
+						]
+					],
+					"id": "57",
+					"properties": {
+						"eightyseven": "15.2",
+						"eightyeight": "14.8",
+						"eightynine": "14.7",
+						"ninety": "14.1",
+						"ninetyone": "14.9",
+						"ninetytwo": "13.8",
+						"ninetythree": "14",
+						"ninetyfour": "14.1",
+						"ninetyfive": "14.1",
+						"ninetysix": "14.1",
+						"ninetyseven": "13.7",
+						"ninetyeight": "14",
+						"ninetynine": "13.6",
+						"aught": "14.1",
+						"one": "13.9",
+						"two": "13.7",
+						"three": "14.7",
+						"four": "16",
+						"five": "15.1",
+						"six": "15.3",
+						"seven": "15",
+						"eight": "14.5",
+						"nine": "14.6",
+						"ten": "14.55",
+						"id": "57",
+						"county": "Osage"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[-86, 205, -98]
+						]
+					],
+					"id": "58",
+					"properties": {
+						"eightyseven": "17.1",
+						"eightyeight": "16.5",
+						"eightynine": "15.5",
+						"ninety": "14.9",
+						"ninetyone": "14.5",
+						"ninetytwo": "14.5",
+						"ninetythree": "14.7",
+						"ninetyfour": "15.3",
+						"ninetyfive": "15.4",
+						"ninetysix": "15.3",
+						"ninetyseven": "16.1",
+						"ninetyeight": "16.1",
+						"ninetynine": "16.2",
+						"aught": "15.6",
+						"one": "15.9",
+						"two": "15.3",
+						"three": "15.5",
+						"four": "18.7",
+						"five": "15.8",
+						"six": "15.5",
+						"seven": "15.4",
+						"eight": "15.1",
+						"nine": "14.6",
+						"ten": "15.17",
+						"id": "58",
+						"county": "Ottawa"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[-92, 206, -191, -203, 207]
+						]
+					],
+					"id": "59",
+					"properties": {
+						"eightyseven": "16.3",
+						"eightyeight": "15.9",
+						"eightynine": "15.9",
+						"ninety": "16",
+						"ninetyone": "16",
+						"ninetytwo": "15.6",
+						"ninetythree": "16.1",
+						"ninetyfour": "16.4",
+						"ninetyfive": "15.9",
+						"ninetysix": "15.8",
+						"ninetyseven": "16.1",
+						"ninetyeight": "16.1",
+						"ninetynine": "15.7",
+						"aught": "15.5",
+						"one": "15.3",
+						"two": "15.2",
+						"three": "15.6",
+						"four": "16.3",
+						"five": "15.5",
+						"six": "14.9",
+						"seven": "14.7",
+						"eight": "14.7",
+						"nine": "14.4",
+						"ten": "14.63",
+						"id": "59",
+						"county": "Pawnee"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[-207, -91, -167, -168, -192]
+						]
+					],
+					"id": "60",
+					"properties": {
+						"eightyseven": "17",
+						"eightyeight": "17.4",
+						"eightynine": "16.7",
+						"ninety": "17.2",
+						"ninetyone": "16.7",
+						"ninetytwo": "16.4",
+						"ninetythree": "16.7",
+						"ninetyfour": "16.4",
+						"ninetyfive": "16.2",
+						"ninetysix": "16.5",
+						"ninetyseven": "16.1",
+						"ninetyeight": "16.1",
+						"ninetynine": "15.5",
+						"aught": "15.5",
+						"one": "15.3",
+						"two": "15.7",
+						"three": "16.4",
+						"four": "17.4",
+						"five": "15.7",
+						"six": "15.5",
+						"seven": "15.7",
+						"eight": "15.7",
+						"nine": "15.5",
+						"ten": "15.33",
+						"id": "60",
+						"county": "Payne"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[-132, -158, 208, -15, -71, -135, -182]
+						]
+					],
+					"id": "61",
+					"properties": {
+						"eightyseven": "14.5",
+						"eightyeight": "16.2",
+						"eightynine": "15.2",
+						"ninety": "14.8",
+						"ninetyone": "16.3",
+						"ninetytwo": "15.8",
+						"ninetythree": "15.5",
+						"ninetyfour": "15.7",
+						"ninetyfive": "15.9",
+						"ninetysix": "15.9",
+						"ninetyseven": "15.7",
+						"ninetyeight": "15.4",
+						"ninetynine": "15.2",
+						"aught": "14.8",
+						"one": "14.6",
+						"two": "14.6",
+						"three": "14.7",
+						"four": "16.7",
+						"five": "14.6",
+						"six": "14.3",
+						"seven": "14.1",
+						"eight": "14.1",
+						"nine": "14.9",
+						"ten": "14.5",
+						"id": "61",
+						"county": "Pittsburg"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[209, 210, -136, -69, -148, -186, -116, -179]
+						]
+					],
+					"id": "62",
+					"properties": {
+						"eightyseven": "16.2",
+						"eightyeight": "15.8",
+						"eightynine": "15.5",
+						"ninety": "15.4",
+						"ninetyone": "15.5",
+						"ninetytwo": "15.1",
+						"ninetythree": "14.8",
+						"ninetyfour": "15.1",
+						"ninetyfive": "14.9",
+						"ninetysix": "14.6",
+						"ninetyseven": "14.8",
+						"ninetyeight": "14.6",
+						"ninetynine": "14.3",
+						"aught": "14.1",
+						"one": "13.9",
+						"two": "13.9",
+						"three": "14.2",
+						"four": "17.4",
+						"five": "14",
+						"six": "13.7",
+						"seven": "13.9",
+						"eight": "13.8",
+						"nine": "13.6",
+						"ten": "13.73",
+						"id": "62",
+						"county": "Pontotoc"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[211, -210, -178, -67, -199, -164, -198]
+						]
+					],
+					"id": "63",
+					"properties": {
+						"eightyseven": "17.5",
+						"eightyeight": "17.1",
+						"eightynine": "16.8",
+						"ninety": "16.2",
+						"ninetyone": "15.9",
+						"ninetytwo": "15.7",
+						"ninetythree": "15.6",
+						"ninetyfour": "15.7",
+						"ninetyfive": "15.8",
+						"ninetysix": "16",
+						"ninetyseven": "15.8",
+						"ninetyeight": "15.5",
+						"ninetynine": "15.3",
+						"aught": "15.1",
+						"one": "15",
+						"two": "15.1",
+						"three": "15.5",
+						"four": "17.2",
+						"five": "15.5",
+						"six": "15",
+						"seven": "15",
+						"eight": "15.2",
+						"nine": "15.4",
+						"ten": "15.37",
+						"id": "63",
+						"county": "Pottawatomie"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[-161, -181, -62, -10, -209, -157]
+						]
+					],
+					"id": "64",
+					"properties": {
+						"eightyseven": "14",
+						"eightyeight": "13.8",
+						"eightynine": "13.4",
+						"ninety": "13.8",
+						"ninetyone": "13.2",
+						"ninetytwo": "13.1",
+						"ninetythree": "13.6",
+						"ninetyfour": "13.6",
+						"ninetyfive": "14",
+						"ninetysix": "14",
+						"ninetyseven": "13.9",
+						"ninetyeight": "14",
+						"ninetynine": "13.3",
+						"aught": "12.8",
+						"one": "12.3",
+						"two": "12.1",
+						"three": "12.1",
+						"four": "15.3",
+						"five": "13.8",
+						"six": "12.6",
+						"seven": "12.3",
+						"eight": "12.9",
+						"nine": "13.2",
+						"ten": "13.04",
+						"id": "64",
+						"county": "Pushmataha"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[-25, 212, -104, -99, -94]
+						]
+					],
+					"id": "65",
+					"properties": {
+						"eightyseven": "9",
+						"eightyeight": "9.9",
+						"eightynine": "9.7",
+						"ninety": "9.2",
+						"ninetyone": "9.1",
+						"ninetytwo": "9.5",
+						"ninetythree": "9.7",
+						"ninetyfour": "9.3",
+						"ninetyfive": "9.7",
+						"ninetysix": "9.2",
+						"ninetyseven": "8.9",
+						"ninetyeight": "8.7",
+						"ninetynine": "9",
+						"aught": "9.2",
+						"one": "8.4",
+						"two": "7.9",
+						"three": "7.7",
+						"four": "13",
+						"five": "9.2",
+						"six": "9.6",
+						"seven": "9.8",
+						"eight": "9.3",
+						"nine": "9.3",
+						"ten": "10.32",
+						"id": "65",
+						"county": "Roger Mills"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[-83, -177, 213, 214, 215, -193]
+						]
+					],
+					"id": "66",
+					"properties": {
+						"eightyseven": "17.1",
+						"eightyeight": "16.8",
+						"eightynine": "16.2",
+						"ninety": "16.2",
+						"ninetyone": "16",
+						"ninetytwo": "15.9",
+						"ninetythree": "16.3",
+						"ninetyfour": "16.7",
+						"ninetyfive": "16.9",
+						"ninetysix": "16.9",
+						"ninetyseven": "17",
+						"ninetyeight": "17",
+						"ninetynine": "17",
+						"aught": "16.7",
+						"one": "16.5",
+						"two": "16.2",
+						"three": "16.8",
+						"four": "17.9",
+						"five": "16.5",
+						"six": "16",
+						"seven": "15.6",
+						"eight": "15.6",
+						"nine": "15.6",
+						"ten": "15.66",
+						"id": "66",
+						"county": "Rogers"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[-137, -211, -212, -197]
+						]
+					],
+					"id": "67",
+					"properties": {
+						"eightyseven": "15",
+						"eightyeight": "14.8",
+						"eightynine": "13.5",
+						"ninety": "13.8",
+						"ninetyone": "13.6",
+						"ninetytwo": "13.4",
+						"ninetythree": "13.5",
+						"ninetyfour": "13.8",
+						"ninetyfive": "13.7",
+						"ninetysix": "13.8",
+						"ninetyseven": "14.3",
+						"ninetyeight": "14.5",
+						"ninetynine": "14.5",
+						"aught": "13.9",
+						"one": "13.6",
+						"two": "13.3",
+						"three": "13.8",
+						"four": "16.5",
+						"five": "14.9",
+						"six": "14.9",
+						"seven": "15.1",
+						"eight": "14.7",
+						"nine": "14.5",
+						"ten": "14.32",
+						"id": "67",
+						"county": "Seminole"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[-2, 216, -162, -129, -187, -55]
+						]
+					],
+					"id": "68",
+					"properties": {
+						"eightyseven": "15.8",
+						"eightyeight": "15.9",
+						"eightynine": "15.5",
+						"ninety": "15.3",
+						"ninetyone": "15.4",
+						"ninetytwo": "15",
+						"ninetythree": "15.2",
+						"ninetyfour": "15.5",
+						"ninetyfive": "15.2",
+						"ninetysix": "15.1",
+						"ninetyseven": "15.4",
+						"ninetyeight": "15.5",
+						"ninetynine": "15.7",
+						"aught": "15.6",
+						"one": "15.3",
+						"two": "15.1",
+						"three": "15.3",
+						"four": "16.2",
+						"five": "15.7",
+						"six": "15.4",
+						"seven": "15.3",
+						"eight": "15.1",
+						"nine": "15.2",
+						"ten": "14.82",
+						"id": "68",
+						"county": "Sequoyah"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[-113, -53, -145, -80, -73, -117]
+						]
+					],
+					"id": "69",
+					"properties": {
+						"eightyseven": "17.5",
+						"eightyeight": "17.7",
+						"eightynine": "17.3",
+						"ninety": "16.1",
+						"ninetyone": "16.3",
+						"ninetytwo": "16.3",
+						"ninetythree": "16.2",
+						"ninetyfour": "16.4",
+						"ninetyfive": "16.4",
+						"ninetysix": "15.9",
+						"ninetyseven": "15.6",
+						"ninetyeight": "15.7",
+						"ninetynine": "15.3",
+						"aught": "15.3",
+						"one": "15.3",
+						"two": "15.6",
+						"three": "16.4",
+						"four": "19.3",
+						"five": "17.2",
+						"six": "16",
+						"seven": "15.9",
+						"eight": "15.8",
+						"nine": "15.2",
+						"ten": "15.51",
+						"id": "69",
+						"county": "Stephens"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[217, -64, 218, -18]
+						]
+					],
+					"id": "70",
+					"properties": {
+						"eightyseven": "14.2",
+						"eightyeight": "14.1",
+						"eightynine": "13.6",
+						"ninety": "13.4",
+						"ninetyone": "13.6",
+						"ninetytwo": "13.4",
+						"ninetythree": "13.1",
+						"ninetyfour": "13.1",
+						"ninetyfive": "13.6",
+						"ninetysix": "13.7",
+						"ninetyseven": "14.2",
+						"ninetyeight": "13.7",
+						"ninetynine": "13.6",
+						"aught": "13.3",
+						"one": "13",
+						"two": "13.2",
+						"three": "13.3",
+						"four": "15.3",
+						"five": "13.7",
+						"six": "13.7",
+						"seven": "14.1",
+						"eight": "13.9",
+						"nine": "14.3",
+						"ten": "14.35",
+						"id": "70",
+						"county": "Texas"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[-154, -75, -79, 219, -141]
+						]
+					],
+					"id": "71",
+					"properties": {
+						"eightyseven": "13.8",
+						"eightyeight": "13.9",
+						"eightynine": "13.5",
+						"ninety": "13",
+						"ninetyone": "14",
+						"ninetytwo": "13.1",
+						"ninetythree": "12.8",
+						"ninetyfour": "13",
+						"ninetyfive": "13.1",
+						"ninetysix": "13.2",
+						"ninetyseven": "13.1",
+						"ninetyeight": "12.7",
+						"ninetynine": "12.6",
+						"aught": "12.5",
+						"one": "12.5",
+						"two": "12.6",
+						"three": "13.4",
+						"four": "18.1",
+						"five": "14.6",
+						"six": "14.7",
+						"seven": "14.7",
+						"eight": "14.4",
+						"nine": "13.6",
+						"ten": "13.32",
+						"id": "71",
+						"county": "Tillman"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[-215, 220, -201, -87, -208, -202, 221]
+						]
+					],
+					"id": "72",
+					"properties": {
+						"eightyseven": "19.5",
+						"eightyeight": "19.5",
+						"eightynine": "18.8",
+						"ninety": "18.9",
+						"ninetyone": "18.2",
+						"ninetytwo": "17.8",
+						"ninetythree": "17.6",
+						"ninetyfour": "17.2",
+						"ninetyfive": "17",
+						"ninetysix": "17.2",
+						"ninetyseven": "17.4",
+						"ninetyeight": "17",
+						"ninetynine": "16.9",
+						"aught": "16.9",
+						"one": "16.3",
+						"two": "16.5",
+						"three": "17.2",
+						"four": "18.4",
+						"five": "17.4",
+						"six": "17.1",
+						"seven": "16.8",
+						"eight": "16.8",
+						"nine": "16.6",
+						"ten": "16.54",
+						"id": "72",
+						"county": "Tulsa"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[-57, -189, -200, -221, -214, -176]
+						]
+					],
+					"id": "73",
+					"properties": {
+						"eightyseven": "24.6",
+						"eightyeight": "17.4",
+						"eightynine": "16.7",
+						"ninety": "16.1",
+						"ninetyone": "16",
+						"ninetytwo": "15.5",
+						"ninetythree": "15.5",
+						"ninetyfour": "15.9",
+						"ninetyfive": "16.1",
+						"ninetysix": "15.3",
+						"ninetyseven": "15.6",
+						"ninetyeight": "15.9",
+						"ninetynine": "15.8",
+						"aught": "15.4",
+						"one": "15",
+						"two": "14.7",
+						"three": "15.5",
+						"four": "17.3",
+						"five": "16.2",
+						"six": "16",
+						"seven": "15.7",
+						"eight": "15.7",
+						"nine": "16",
+						"ten": "15.77",
+						"id": "73",
+						"county": "Wagoner"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[-216, -222, -205, 222, -194]
+						]
+					],
+					"id": "74",
+					"properties": {
+						"eightyseven": "17.6",
+						"eightyeight": "17",
+						"eightynine": "16.5",
+						"ninety": "16.4",
+						"ninetyone": "16.9",
+						"ninetytwo": "17",
+						"ninetythree": "16.6",
+						"ninetyfour": "16.3",
+						"ninetyfive": "16.5",
+						"ninetysix": "16.6",
+						"ninetyseven": "17.1",
+						"ninetyeight": "16.6",
+						"ninetynine": "16.6",
+						"aught": "16.3",
+						"one": "15.9",
+						"two": "15.7",
+						"three": "15.6",
+						"four": "16.9",
+						"five": "16.5",
+						"six": "16.1",
+						"seven": "15.7",
+						"eight": "15.6",
+						"nine": "15.8",
+						"ten": "15.18",
+						"id": "74",
+						"county": "Washington"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[-155, -27, -93, -42]
+						]
+					],
+					"id": "75",
+					"properties": {
+						"eightyseven": "11.5",
+						"eightyeight": "12.1",
+						"eightynine": "12.4",
+						"ninety": "13.3",
+						"ninetyone": "13.1",
+						"ninetytwo": "13.3",
+						"ninetythree": "13.6",
+						"ninetyfour": "14.2",
+						"ninetyfive": "14.3",
+						"ninetysix": "14.4",
+						"ninetyseven": "14.7",
+						"ninetyeight": "14.4",
+						"ninetynine": "14.8",
+						"aught": "14.3",
+						"one": "13.6",
+						"two": "13.7",
+						"three": "13.2",
+						"four": "17.1",
+						"five": "14.4",
+						"six": "14.9",
+						"seven": "15.6",
+						"eight": "13.6",
+						"nine": "14",
+						"ten": "13.72",
+						"id": "75",
+						"county": "Washita"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[223, -9, -173, 224, -127]
+						]
+					],
+					"id": "76",
+					"properties": {
+						"eightyseven": "11.5",
+						"eightyeight": "11.6",
+						"eightynine": "11.3",
+						"ninety": "11.4",
+						"ninetyone": "11.1",
+						"ninetytwo": "12.3",
+						"ninetythree": "11.7",
+						"ninetyfour": "12.1",
+						"ninetyfive": "12",
+						"ninetysix": "12.8",
+						"ninetyseven": "13.1",
+						"ninetyeight": "13.5",
+						"ninetynine": "12.9",
+						"aught": "13.3",
+						"one": "12.5",
+						"two": "12.4",
+						"three": "12.7",
+						"four": "14.4",
+						"five": "12.7",
+						"six": "12.8",
+						"seven": "12",
+						"eight": "12.1",
+						"nine": "12.1",
+						"ten": "12.47",
+						"id": "76",
+						"county": "Woods"
+					}
+				}, {
+					"type": "MultiPolygon",
+					"arcs": [[[-225, -174, -101, -103, -128]
+						]
+					],
+					"id": "77",
+					"properties": {
+						"eightyseven": "15.7",
+						"eightyeight": "16",
+						"eightynine": "15.5",
+						"ninety": "15.2",
+						"ninetyone": "14.8",
+						"ninetytwo": "14.9",
+						"ninetythree": "14.2",
+						"ninetyfour": "13.8",
+						"ninetyfive": "13.7",
+						"ninetysix": "14.1",
+						"ninetyseven": "14.1",
+						"ninetyeight": "13.8",
+						"ninetynine": "13.4",
+						"aught": "13.8",
+						"one": "14.3",
+						"two": "14.1",
+						"three": "13.9",
+						"four": "16",
+						"five": "15.2",
+						"six": "14.4",
+						"seven": "14",
+						"eight": "14.3",
+						"nine": "15",
+						"ten": "15.05",
+						"id": "77",
+						"county": "Woodward"
+					}
+				}
+			]
+		}
+	},
+	"arcs": [[[9846, 7523],[12, -178],[71, -1019],[19, -356]
+		],[[9948, 5970],[-390, 0]
+		],[[9558, 5970],[13, 1553]
+		],[[9571, 7523],[32, 0],[243, 0]
+		],[[5201, 9999],[230, 0],[274, 0]
+		],[[5705, 9999],[7, -1197]
+		],[[5712, 8802],[0, -389]
+		],[[5712, 8413],[-499, 0]
+		],[[5213, 8413],[-12, 1586]
+		],[[8549, 2896],[0, -259],[-122, 0],[0, -1035]
+		],[[8427, 1602],[-249, 0]
+		],[[8178, 1602],[-486, 0]
+		],[[7692, 1602],[0, 776]
+		],[[7692, 2378],[307, 0],[0, 259],[64, 0],[0, 502]
+		],[[8063, 3139],[243, 0],[0, -243],[243, 0]
+		],[[3495, 8802],[0, -275]
+		],[[3495, 8527],[-633, 0],[-300, 0],[-173, 0]
+		],[[2389, 8527],[7, 1472]
+		],[[2396, 9999],[364, 0],[639, 0],[102, 0]
+		],[[3501, 9999],[-6, -1197]
+		],[[4249, 4433],[-58, 0]
+		],[[4191, 4433],[-351, 0],[-83, 0],[0, -259],[-128, 0]
+		],[[3629, 4174],[-51, 0],[-77, 0]
+		],[[3501, 4174],[0, 453],[0, 712]
+		],[[3501, 5339],[492, 0],[7, 259],[242, 0]
+		],[[4242, 5598],[0, -129]
+		],[[4242, 5469],[7, -1036]
+		],[[5590, 6229],[-121, 0],[0, -518]
+		],[[5469, 5711],[-319, 0],[-45, 0]
+		],[[5105, 5711],[-6, 777]
+		],[[5099, 6488],[-7, 1035]
+		],[[5092, 7523],[173, 0],[325, 0]
+		],[[5590, 7523],[0, -1294]
+		],[[8178, 1602],[64, -97],[0, -534],[109, -211],[95, 0]
+		],[[8446, 760],[-12, -81],[-83, -16],[-109, 146],[-96, -146],[-153, 0],[-32, -242],[-134, 32],[-58, -243],[-45, 114],[-51, 145],[-89, 0],[-32, 130],[-122, 80],[52, 146]
+		],[[7482, 825],[12, 210],[-57, 130],[57, 0],[32, 162],[-44, 145]
+		],[[7482, 1472],[153, 0],[0, 130],[51, 0],[6, 0]
+		],[[5469, 5711],[6, -501],[250, 0]
+		],[[5725, 5210],[0, -1553]
+		],[[5725, 3657],[-614, 0]
+		],[[5111, 3657],[0, 728]
+		],[[5111, 4385],[-6, 1084]
+		],[[5105, 5469],[0, 242]
+		],[[6217, 5210],[0, -130]
+		],[[6217, 5080],[-492, 130]
+		],[[5590, 6229],[275, 0],[352, 0]
+		],[[6217, 6229],[0, -1019]
+		],[[6587, 2637],[0, -388],[371, 0],[6, -129],[115, 0]
+		],[[7079, 2120],[0, -470]
+		],[[7079, 1650],[-38, 0],[-7, -307]
+		],[[7034, 1343],[-690, 0]
+		],[[6344, 1343],[0, 647]
+		],[[6344, 1990],[0, 647]
+		],[[6344, 2637],[243, 0]
+		],[[9558, 5970],[-51, 0],[-319, 0]
+		],[[9188, 5970],[0, 518],[-167, 0]
+		],[[9021, 6488],[45, 146],[-64, 129],[7, 178],[51, 81],[32, 243]
+		],[[9092, 7265],[102, 0],[0, 258],[109, 0],[19, 0]
+		],[[9322, 7523],[249, 0]
+		],[[9149, 1602],[0, -647]
+		],[[9149, 955],[-83, 64],[-25, -161],[-71, -81],[-274, 0],[-45, 162],[-205, -179]
+		],[[8427, 1602],[460, 0],[262, 0]
+		],[[1131, 8527],[-154, 0],[-977, 0],[0, 1472],[1118, -16],[19, 0]
+		],[[1137, 9983],[-6, -1456]
+		],[[6836, 3883],[-230, 97],[-19, 324],[-57, 48],[-7, 146],[-179, 275],[-12, 194],[-115, 113]
+		],[[6217, 5210],[287, 0],[332, 0]
+		],[[6836, 5210],[0, -1327]
+		],[[7692, 2378],[-121, 0],[0, 243]
+		],[[7571, 2621],[0, 518],[121, 0],[0, 259]
+		],[[7692, 3398],[371, 0]
+		],[[8063, 3398],[0, -259]
+		],[[5725, 3657],[6, -502]
+		],[[5731, 3155],[-64, 0],[0, -518]
+		],[[5667, 2637],[-115, 0],[0, -129],[-64, -49],[-243, 0],[0, -81],[-185, -48]
+		],[[5060, 2330],[0, 307],[-192, 0],[0, 259]
+		],[[4868, 2896],[0, 761],[39, 0],[204, 0]
+		],[[5674, 1990],[0, -437]
+		],[[5674, 1553],[-39, -81],[-223, 130],[-71, -227],[-76, -48],[-141, 275]
+		],[[5124, 1602],[0, 518],[-64, 0],[0, 210]
+		],[[5667, 2637],[7, -647]
+		],[[9335, 9028],[-7, -485]
+		],[[9328, 8543],[-370, 16],[-7, 0]
+		],[[8951, 8559],[0, 243],[-121, 0]
+		],[[8830, 8802],[0, 1035],[25, -16],[0, 178]
+		],[[8855, 9999],[301, 0],[95, 0],[77, 0]
+		],[[9328, 9999],[-38, -81],[51, -65],[-6, -825]
+		],[[7820, 7523],[0, -258],[313, 0],[-6, -648]
+		],[[8127, 6617],[-121, 0],[-64, 0],[0, -647]
+		],[[7942, 5970],[-333, 0],[-166, 0]
+		],[[7443, 5970],[0, 906]
+		],[[7443, 6876],[0, 647]
+		],[[7443, 7523],[377, 0]
+		],[[5105, 5469],[-633, 0],[-230, 0]
+		],[[4242, 5598],[-12, 890]
+		],[[4230, 6488],[651, 0],[218, 0]
+		],[[9782, 9012],[0, -485],[64, -1004]
+		],[[9322, 7523],[6, 1020]
+		],[[9335, 9028],[127, 0],[320, -16]
+		],[[4230, 6488],[-7, 599]
+		],[[4223, 7087],[0, 436]
+		],[[4223, 7523],[499, 0]
+		],[[4722, 7523],[370, 0]
+		],[[3961, 8802],[13, -1279],[249, 0]
+		],[[4223, 7087],[-121, -81],[-83, -356],[-77, -65],[-179, 129],[-64, 356],[-76, -64],[-13, -178],[-109, -130]
+		],[[3501, 6698],[0, 518],[-6, 1311]
+		],[[3495, 8802],[466, 0]
+		],[[6466, 7523],[-256, 0]
+		],[[6210, 7523],[-485, 17],[-13, -17]
+		],[[5712, 7523],[0, 890]
+		],[[5712, 8802],[140, 0],[607, 0]
+		],[[6459, 8802],[7, -1279]
+		],[[7079, 3009],[-185, 17],[-128, -49],[64, -340],[-243, 0]
+		],[[6344, 2637],[0, 518],[-121, 0]
+		],[[6223, 3155],[0, 502]
+		],[[6223, 3657],[281, 0],[575, 0]
+		],[[7079, 3657],[0, -648]
+		],[[6223, 3155],[-383, 0],[-109, 0]
+		],[[6217, 5080],[6, -1423]
+		],[[5705, 9999],[358, 0],[179, 0],[217, 0]
+		],[[6459, 9999],[0, -1197]
+		],[[4191, 4433],[103, -226],[-32, -162],[70, -243],[-32, -97],[83, -146]
+		],[[4383, 3559],[-179, -16],[-6, -129],[-45, -32],[19, -98],[-281, 0]
+		],[[3891, 3284],[-19, 114],[-45, 0],[-13, 534],[-185, 0],[0, 242]
+		],[[3891, 3284],[0, -647],[-211, 0]
+		],[[3680, 2637],[-96, 194],[-83, -32],[0, 534],[0, 841]
+		],[[3501, 9999],[537, 0],[96, 0]
+		],[[4134, 9999],[191, -534]
+		],[[4325, 9465],[0, -663],[-364, 0]
+		],[[9277, 5452],[51, -145],[122, -49],[-13, -145],[83, 81],[32, -146]
+		],[[9552, 5048],[0, -356],[-134, 0],[0, -437]
+		],[[9418, 4255],[-473, 0],[-19, 0]
+		],[[8926, 4255],[0, 308],[-122, 0],[7, 404]
+		],[[8811, 4967],[70, 97],[51, -113]
+		],[[8932, 4951],[134, -81],[211, 582]
+		],[[8184, 4530],[-121, -291],[0, -841]
+		],[[7692, 3398],[0, 485],[-19, -81],[-76, 16]
+		],[[7597, 3818],[0, 615],[57, 0],[0, 518]
+		],[[7654, 4951],[281, 0],[256, 0]
+		],[[8191, 4951],[-7, -421]
+		],[[4383, 3559],[64, 114],[51, -33],[-13, -404],[141, -65],[-71, -48],[-6, -97]
+		],[[4549, 3026],[19, -146],[-89, 0],[-70, -291],[-20, -211],[51, -194],[-19, -48]
+		],[[4421, 2136],[-76, 129],[19, 65],[-70, 16],[-58, 146],[-32, -243],[-89, 65],[-115, 64],[-32, -129],[-115, 16],[-173, 372]
+		],[[6344, 1343],[32, -259],[-32, 0],[0, -259]
+		],[[6344, 825],[-38, 49],[6, 129],[-95, 113],[-192, -404],[-166, 97],[38, 291],[-166, 49],[-38, 226],[38, 146],[-57, 32]
+		],[[5674, 1990],[89, 0],[581, 0]
+		],[[7482, 1472],[-58, 162],[-345, 16]
+		],[[7079, 2120],[58, 0],[6, 501],[58, 16]
+		],[[7201, 2637],[370, -16]
+		],[[6932, 8802],[-473, 0]
+		],[[6459, 9999],[371, 0],[326, 0],[134, 0]
+		],[[7290, 9999],[0, -647],[-160, -81],[-51, -194],[-134, 16],[-13, -291]
+		],[[5590, 7523],[122, 0]
+		],[[6210, 7523],[7, -1294]
+		],[[4868, 2896],[-204, 0],[0, 130],[-115, 0]
+		],[[4249, 4433],[204, 0],[524, -48],[96, 64],[38, -64]
+		],[[9418, 4255],[0, -340],[-83, 0],[0, -258],[-71, 0],[0, -518]
+		],[[9264, 3139],[-294, 16],[-236, 0]
+		],[[8734, 3155],[6, 1019],[186, 0],[0, 81]
+		],[[9999, 5210],[-19, -1311],[-7, -615],[-12, -647]
+		],[[9961, 2637],[-179, 0],[-377, 0]
+		],[[9405, 2637],[0, 502],[-141, 0]
+		],[[9552, 5048],[76, 97],[96, -194],[83, 113],[115, -81],[13, 194],[64, 33]
+		],[[7443, 5970],[-6, -518]
+		],[[7437, 5452],[-601, 17]
+		],[[6836, 5469],[0, 760]
+		],[[6836, 6229],[0, 647]
+		],[[6836, 6876],[71, 0],[536, 0]
+		],[[6587, 7507],[0, -501],[51, 64],[39, -97],[159, -97]
+		],[[6836, 6229],[-619, 0]
+		],[[6466, 7523],[121, -16]
+		],[[7034, 1343],[45, -340]
+		],[[7079, 1003],[-13, -16],[-57, 0],[6, -194],[-121, -243],[6, -178],[-38, -64],[-64, 48],[-38, 194],[44, 129],[-44, 211],[-58, -162],[-89, 32],[-39, -145],[-51, -16],[-57, 48],[6, 162],[-38, 81],[-90, -65]
+		],[[4715, 8543],[134, 0],[45, -146],[211, -194],[108, 16],[0, 194]
+		],[[4722, 7523],[-7, 1004],[0, 16]
+		],[[7482, 825],[-90, 65],[-38, -227],[-77, -48],[-38, 129],[-83, -48],[-45, 291],[-32, 16]
+		],[[9092, 7265],[-269, 0]
+		],[[8823, 7265],[0, 1294],[128, 0]
+		],[[6836, 3883],[147, -65],[96, 162]
+		],[[7079, 3980],[0, -323]
+		],[[9961, 2637],[-7, -938],[-13, -744],[-6, -890],[-45, -65],[-64, 178],[-185, 81],[-38, 145],[-115, -16],[-115, 340],[-96, 0],[-128, 227]
+		],[[9149, 1602],[7, 259],[121, 0],[0, 776],[128, 0]
+		],[[8811, 4967],[-64, 16],[-13, -113],[-102, -129],[-13, 80],[-109, -129],[-57, -81],[-134, 33],[-45, -130],[-90, 16]
+		],[[8191, 4951],[0, 259]
+		],[[8191, 5210],[121, 0],[0, 242],[64, 0],[0, 276],[128, 0]
+		],[[8504, 5728],[275, 0],[153, 0],[0, -777]
+		],[[7079, 3009],[0, -129],[122, 16],[0, -259]
+		],[[9188, 5970],[-7, -323],[51, -195],[45, 0]
+		],[[8504, 5728],[0, 501],[-64, 0],[0, 388]
+		],[[8440, 6617],[128, 0],[19, -194],[58, -81],[127, 114],[249, 32]
+		],[[6932, 8802],[160, 16],[38, -81],[-140, -194]
+		],[[6990, 8543],[-26, 0],[0, -518],[122, 0],[0, -259]
+		],[[7086, 7766],[-122, 0],[-128, 0],[0, -259],[-249, 0]
+		],[[8830, 8802],[-441, 0]
+		],[[8389, 8802],[25, 1197]
+		],[[8414, 9999],[205, 0],[109, 0],[127, 0]
+		],[[7942, 5970],[0, -242],[121, 0],[0, -518],[128, 0]
+		],[[7654, 4951],[0, 518],[-64, -114],[-89, 33],[45, -146],[-109, 33]
+		],[[7437, 5275],[0, 177]
+		],[[6836, 5469],[0, -259]
+		],[[8376, 6617],[64, 0]
+		],[[8127, 6617],[249, 0]
+		],[[8165, 8300],[0, -777],[-313, 0]
+		],[[7852, 7523],[19, 178],[-102, 17],[-134, 307],[-77, -97],[-51, 32],[45, 243],[-70, -49],[-52, 146],[-83, 16],[-25, 291],[-51, 114],[-122, -292],[-76, -32],[-83, 146]
+		],[[7290, 9999],[26, 0],[236, 0],[613, 0]
+		],[[8165, 9999],[0, -1699]
+		],[[9328, 9999],[13, 0],[441, 0],[0, -696],[0, -291]
+		],[[7443, 7523],[-230, -16],[0, 259],[-127, 0]
+		],[[7852, 7523],[-32, 0]
+		],[[8734, 3155],[0, -259],[-185, 0]
+		],[[7079, 3980],[58, -113],[76, 65],[51, -130]
+		],[[7264, 3802],[58, -129],[45, 65],[-32, 96],[25, 65],[58, -113],[89, 65],[45, -146],[45, 113]
+		],[[7437, 5275],[-173, 32],[0, -1505]
+		],[[3501, 5339],[0, 583],[0, 776]
+		],[[8823, 7265],[-153, 0],[0, 161],[-57, 97],[-167, 0]
+		],[[8446, 7523],[-63, 0],[6, 777]
+		],[[8389, 8300],[0, 502]
+		],[[9948, 5970],[51, -712],[0, -48]
+		],[[2389, 8527],[-153, 0],[-626, 0],[-224, 0],[-255, 0]
+		],[[1137, 9983],[550, 0],[568, 16],[141, 0]
+		],[[5124, 1602],[-172, -97],[-64, 97],[-64, -16],[-102, 178],[-275, 0],[-26, 372]
+		],[[8446, 7523],[0, -776],[-70, 0],[0, -130]
+		],[[8165, 8300],[96, 0],[128, 0]
+		],[[8165, 9999],[45, 0],[64, 0],[140, 0]
+		],[[4134, 9999],[530, 0],[537, 0]
+		],[[4715, 8543],[0, 275],[-115, 340],[-96, 194],[-134, 16],[-45, 97]
+		]
+	]
+}

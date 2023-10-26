@@ -1,0 +1,524 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<title>Paleo-Temperature Anomaly Spatial Grids</title>
+
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.0/dist/leaflet.css" integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ==" crossorigin=""/>
+		<link rel="stylesheet" href="css/style.css">
+    <script src="https://unpkg.com/leaflet@1.3.0/dist/leaflet.js" integrity="sha512-C7BBF9irt5R7hqbUm2uxtODlUVs+IsNu2UULGuZN7gM+k/mmeG4xvIEac01BtQa4YIkUpp23zZC4wIwuXaPMQA==" crossorigin=""></script>
+		<script src="js/leaflet.ajax.min.js"></script>
+
+		<style>
+		#mapid {
+			width: 100%;
+		}
+		.leaflet-popup-content-wrapper {
+			border-radius: 0;
+	    background: black;
+	    color: white;
+	    font-size: 20px;
+			font-family: Georgia;
+			opacity: 0.7
+		}
+		.leaflet-popup-content {
+			margin: 5px;
+		}
+		.leaflet-popup-tip {
+			background: black;
+			opacity: 0.7
+		}
+		.leaflet-popup-close-button {
+			display: none;
+			opacity: 0.7
+		}
+
+		/*another-popop style*/
+.another-popup .leaflet-popup-content-wrapper {
+  background: #e6f2ff;
+  color: #0066cc;
+	font-family: : Georgia;
+  font-size: 16px;
+  line-height: 24px;
+  border-radius: 0;
+}
+.another-popup.leaflet-popup-content {
+	margin: 5px;
+}
+.another-popup .leaflet-popup-tip-container {
+  width: 50px;
+  height: 15px;
+}
+.another-popup .leaflet-popup-tip {
+  background: #e6f2ff;
+  border: none;
+  box-shadow: none;
+}
+		</style>
+
+
+</head>
+<body>
+
+<div id ="heading1"><center><p1>Paleo-temperature Anomaly Metadata and Spatial Grids</p1></center></div><br>
+<div id ="heading2"><center><p2>Data from <a href="https://www.nature.com/articles/nature10915">Shakun</a> and <a href="https://science.sciencemag.org/content/339/6124/1198">Marcott</a> papers</p2></center></div>
+<div id="about">
+<div id ="intro"><center><h3>Read Me</h3></center>
+	<div id ="intro"><p2>This is a temporary working map coded by <a href="http://yeshancqcq.github.io">Shan Ye</a>. It is recommended to use a laptop or PC to view this page. Some mobile devices are not well supported. It has data points containing metadata info of each location, and spatial grids containing anomaly data. You can select what base map and layers to display from the dropdown menu at the upper right cornor of the map. You can also click on data points and grids to see their IDs and other information. The default view only shows general locations of data points. To see more accurate locations of data points, you need to zoom in the map.</p2>
+		<h3><center>About the data processing</center></h3>
+		<p2><center>The average temperature at each data point between 8,000 and 12,000 years bp is selected as the reference to generate anomaly data, becuase the spatiotemporal coverage of this period is good for most data points. If a data point does not extend deep enough (>= 1ka) into the chosen period, this data point is dropped.</p2><br>
+		Cleaned raw data: <a href="https://github.com/yeshancqcq/GEO420_data/tree/master/marcott_data">Marcott</a> | <a href="https://github.com/yeshancqcq/GEO420_data/tree/master/shakun_data">Shakun</a><br>
+		Separating csv files from the big excel spreadsheet of Marcott and Shakun papers: <a href="https://github.com/yeshancqcq/GEO420_data/blob/master/shakun_marcott_data/excel.vba">VBA code</a>.<br>
+		Calculating anomaly data from all cleared csv sheets in the same directory: <a href="https://github.com/yeshancqcq/GEO420_data/blob/master/anomaly_autoGen.R">R code</a>.<br>
+		Code for interpolating anomaly data: <a href="https://github.com/yeshancqcq/GEO420_data/blob/master/interpolation_anomaly.R">R code</a>.<br>
+		Python code for spatial-zonal-statistics data processing with ArcGIS: <a href="https://github.com/yeshancqcq/paleo_data_spatial/blob/master/arcgis.py">arcpy</a>.<br>
+		See also: <a href="https://yeshancqcq.github.io/anomaly/data_model_comparison.html">Data-model comparison map</a></p2></center>
+	</div>
+
+		<div id ="intro"><center><br>
+		<p>Choose the year to be mapped below. Always CLEAR before choosing again.</p>
+
+<select class = "selector" id="mySelect" size="1">
+	<option value="0">Current</option>
+  <option value="100">100 Years BP</option>
+  <option value="200">200 Years BP</option>
+  <option value="300">300 Years BP</option>
+  <option value="400">400 Years BP</option>
+	<option value="500">500 Years BP</option>
+	<option value="600">600 Years BP</option>
+	<option value="700">700 Years BP</option>
+	<option value="800">800 Years BP</option>
+	<option value="900">900 Years BP</option>
+	<option value="1000">1000 Years BP</option>
+	<option value="1100">1100 Years BP</option>
+	<option value="1200">1200 Years BP</option>
+	<option value="1300">1300 Years BP</option>
+	<option value="1400">1400 Years BP</option>
+	<option value="1500">1500 Years BP</option>
+	<option value="1600">1600 Years BP</option>
+	<option value="1700">1700 Years BP</option>
+	<option value="1800">1800 Years BP</option>
+	<option value="1900">1900 Years BP</option>
+	<option value="2000">2000 Years BP</option>
+	<option value="2100">2100 Years BP</option>
+	<option value="2200">2200 Years BP</option>
+	<option value="2300">2300 Years BP</option>
+	<option value="2400">2400 Years BP</option>
+	<option value="2500">2500 Years BP</option>
+	<option value="2600">2600 Years BP</option>
+	<option value="2700">2700 Years BP</option>
+	<option value="2800">2800 Years BP</option>
+	<option value="2900">2900 Years BP</option>
+	<option value="3000">3000 Years BP</option>
+	<option value="3100">3100 Years BP</option>
+	<option value="3200">3200 Years BP</option>
+	<option value="3300">3300 Years BP</option>
+	<option value="3400">3400 Years BP</option>
+	<option value="3500">3500 Years BP</option>
+	<option value="3600">3600 Years BP</option>
+	<option value="3700">3700 Years BP</option>
+	<option value="3800">3800 Years BP</option>
+	<option value="3900">3900 Years BP</option>
+	<option value="4000">4000 Years BP</option>
+	<option value="4100">4100 Years BP</option>
+	<option value="4200">4200 Years BP</option>
+	<option value="4300">4300 Years BP</option>
+	<option value="4400">4400 Years BP</option>
+	<option value="4500">4500 Years BP</option>
+	<option value="4600">4600 Years BP</option>
+	<option value="4700">4700 Years BP</option>
+	<option value="4800">4800 Years BP</option>
+	<option value="4900">4900 Years BP</option>
+	<option value="5000">5000 Years BP</option>
+	<option value="5100">5100 Years BP</option>
+	<option value="5200">5200 Years BP</option>
+	<option value="5300">5300 Years BP</option>
+	<option value="5400">5400 Years BP</option>
+	<option value="5500">5500 Years BP</option>
+	<option value="5600">5600 Years BP</option>
+	<option value="5700">5700 Years BP</option>
+	<option value="5800">5800 Years BP</option>
+	<option value="5900">5900 Years BP</option>
+	<option value="6000">6000 Years BP</option>
+	<option value="6100">6100 Years BP</option>
+	<option value="6200">6200 Years BP</option>
+	<option value="6300">6300 Years BP</option>
+	<option value="6400">6400 Years BP</option>
+	<option value="6500">6500 Years BP</option>
+	<option value="6600">6600 Years BP</option>
+	<option value="6700">6700 Years BP</option>
+	<option value="6800">6800 Years BP</option>
+	<option value="6900">6900 Years BP</option>
+	<option value="7000">7000 Years BP</option>
+	<option value="7100">7100 Years BP</option>
+	<option value="7200">7200 Years BP</option>
+	<option value="7300">7300 Years BP</option>
+	<option value="7400">7400 Years BP</option>
+	<option value="7500">7500 Years BP</option>
+	<option value="7600">7600 Years BP</option>
+	<option value="7700">7700 Years BP</option>
+	<option value="7800">7800 Years BP</option>
+	<option value="7900">7900 Years BP</option>
+	<option value="8000">8000 Years BP</option>
+	<option value="8100">8100 Years BP</option>
+	<option value="8200">8200 Years BP</option>
+	<option value="8300">8300 Years BP</option>
+	<option value="8400">8400 Years BP</option>
+	<option value="8500">8500 Years BP</option>
+	<option value="8600">8600 Years BP</option>
+	<option value="8700">8700 Years BP</option>
+	<option value="8800">8800 Years BP</option>
+	<option value="8900">8900 Years BP</option>
+	<option value="9000">9000 Years BP</option>
+	<option value="9100">9100 Years BP</option>
+	<option value="9200">9200 Years BP</option>
+	<option value="9300">9300 Years BP</option>
+	<option value="9400">9400 Years BP</option>
+	<option value="9500">9500 Years BP</option>
+	<option value="9600">9600 Years BP</option>
+	<option value="9700">9700 Years BP</option>
+	<option value="9800">9800 Years BP</option>
+	<option value="9900">9900 Years BP</option>
+	<option value="10000">10000 Years BP</option>
+	<option value="10100">10100 Years BP</option>
+	<option value="10200">10200 Years BP</option>
+	<option value="10300">10300 Years BP</option>
+	<option value="10400">10400 Years BP</option>
+	<option value="10500">10500 Years BP</option>
+	<option value="10600">10600 Years BP</option>
+	<option value="10700">10700 Years BP</option>
+	<option value="10800">10800 Years BP</option>
+	<option value="10900">10900 Years BP</option>
+	<option value="11000">11000 Years BP</option>
+	<option value="11100">11100 Years BP</option>
+	<option value="11200">11200 Years BP</option>
+	<option value="11300">11300 Years BP</option>
+	<option value="11400">11400 Years BP</option>
+	<option value="11500">11500 Years BP</option>
+	<option value="11600">11600 Years BP</option>
+	<option value="11700">11700 Years BP</option>
+	<option value="11800">11800 Years BP</option>
+	<option value="11900">11900 Years BP</option>
+	<option value="12000">12000 Years BP</option>
+	<option value="12100">12100 Years BP</option>
+	<option value="12200">12200 Years BP</option>
+	<option value="12300">12300 Years BP</option>
+	<option value="12400">12400 Years BP</option>
+	<option value="12500">12500 Years BP</option>
+	<option value="12600">12600 Years BP</option>
+	<option value="12700">12700 Years BP</option>
+	<option value="12800">12800 Years BP</option>
+	<option value="12900">12900 Years BP</option>
+	<option value="13000">13000 Years BP</option>
+	<option value="13100">13100 Years BP</option>
+	<option value="13200">13200 Years BP</option>
+	<option value="13300">13300 Years BP</option>
+	<option value="13400">13400 Years BP</option>
+	<option value="13500">13500 Years BP</option>
+	<option value="13600">13600 Years BP</option>
+	<option value="13700">13700 Years BP</option>
+	<option value="13800">13800 Years BP</option>
+	<option value="13900">13900 Years BP</option>
+	<option value="14000">14000 Years BP</option>
+	<option value="14100">14100 Years BP</option>
+	<option value="14200">14200 Years BP</option>
+	<option value="14300">14300 Years BP</option>
+	<option value="14400">14400 Years BP</option>
+	<option value="14500">14500 Years BP</option>
+	<option value="14600">14600 Years BP</option>
+	<option value="14700">14700 Years BP</option>
+	<option value="14800">14800 Years BP</option>
+	<option value="14900">14900 Years BP</option>
+	<option value="15000">15000 Years BP</option>
+	<option value="15100">15100 Years BP</option>
+	<option value="15200">15200 Years BP</option>
+	<option value="15300">15300 Years BP</option>
+	<option value="15400">15400 Years BP</option>
+	<option value="15500">15500 Years BP</option>
+	<option value="15600">15600 Years BP</option>
+	<option value="15700">15700 Years BP</option>
+	<option value="15800">15800 Years BP</option>
+	<option value="15900">15900 Years BP</option>
+	<option value="16000">16000 Years BP</option>
+	<option value="16100">16100 Years BP</option>
+	<option value="16200">16200 Years BP</option>
+	<option value="16300">16300 Years BP</option>
+	<option value="16400">16400 Years BP</option>
+	<option value="16500">16500 Years BP</option>
+	<option value="16600">16600 Years BP</option>
+	<option value="16700">16700 Years BP</option>
+	<option value="16800">16800 Years BP</option>
+	<option value="16900">16900 Years BP</option>
+	<option value="17000">17000 Years BP</option>
+	<option value="17100">17100 Years BP</option>
+	<option value="17200">17200 Years BP</option>
+	<option value="17300">17300 Years BP</option>
+	<option value="17400">17400 Years BP</option>
+	<option value="17500">17500 Years BP</option>
+	<option value="17600">17600 Years BP</option>
+	<option value="17700">17700 Years BP</option>
+	<option value="17800">17800 Years BP</option>
+	<option value="17900">17900 Years BP</option>
+	<option value="18000">18000 Years BP</option>
+	<option value="18100">18100 Years BP</option>
+	<option value="18200">18200 Years BP</option>
+	<option value="18300">18300 Years BP</option>
+	<option value="18400">18400 Years BP</option>
+	<option value="18500">18500 Years BP</option>
+	<option value="18600">18600 Years BP</option>
+	<option value="18700">18700 Years BP</option>
+	<option value="18800">18800 Years BP</option>
+	<option value="18900">18900 Years BP</option>
+	<option value="19000">19000 Years BP</option>
+	<option value="19100">19100 Years BP</option>
+	<option value="19200">19200 Years BP</option>
+	<option value="19300">19300 Years BP</option>
+	<option value="19400">19400 Years BP</option>
+	<option value="19500">19500 Years BP</option>
+	<option value="19600">19600 Years BP</option>
+	<option value="19700">19700 Years BP</option>
+	<option value="19800">19800 Years BP</option>
+	<option value="19900">19900 Years BP</option>
+	<option value="20000">20000 Years BP</option>
+	<option value="20100">20100 Years BP</option>
+	<option value="20200">20200 Years BP</option>
+	<option value="20300">20300 Years BP</option>
+	<option value="20400">20400 Years BP</option>
+	<option value="20500">20500 Years BP</option>
+	<option value="20600">20600 Years BP</option>
+	<option value="20700">20700 Years BP</option>
+	<option value="20800">20800 Years BP</option>
+	<option value="20900">20900 Years BP</option>
+	<option value="21000">21000 Years BP</option>
+	<option value="21100">21100 Years BP</option>
+	<option value="21200">21200 Years BP</option>
+	<option value="21300">21300 Years BP</option>
+	<option value="21400">21400 Years BP</option>
+	<option value="21500">21500 Years BP</option>
+	<option value="21600">21600 Years BP</option>
+	<option value="21700">21700 Years BP</option>
+	<option value="21800">21800 Years BP</option>
+	<option value="21900">21900 Years BP</option>
+	<option value="22000">22000 Years BP</option>
+</select></div>
+
+<div><center>
+<button class="button" onclick="temporalGrid_style();">Map it</button>
+<button class="button" onClick="document.location.reload()">Clear</button>
+</center></div>
+</center></div>
+	<div id="wrapper">
+	<div id="map">
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src='https://npmcdn.com/@turf/turf/turf.min.js'></script>
+<script id="mapHere">
+
+//	$(document).ready(function()
+		// Initiating base map layers
+		var temporalGridData = $.getJSON("data/ref_grid_time.json")
+		var topographic = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Shaded_Relief/MapServer/tile/{z}/{y}/{x}', {
+			maxZoom: 30,
+      minZoom: 2,
+			attribution: 'Tiles &copy; Esri &mdash; Source: Esri'
+		}),
+		satellite = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+			maxZoom: 30,
+      minZoom: 2,
+			attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
+		});
+
+		//Initiating map layer groups
+
+		var sites = L.layerGroup();
+		var grid = L.layerGroup();
+    var temporal = L.layerGroup();
+
+  // Initiating icon as var
+  var blackIcon = L.icon({
+  iconUrl: 'img/map-marker.svg',
+  iconSize: [11,44],
+  iconAnchor: [10,40],
+  popupAnchor: [-5,-20]
+  });
+
+  var redIcon = L.icon({
+  iconUrl: 'img/map-marker-red.svg',
+	iconSize: [23,74],
+  iconAnchor: [23,74],
+  popupAnchor: [0,-10]
+  });
+
+		//Starting style of grid layer 1
+		function grid_style(feature) {
+    return {
+        fillColor: '#BDBDBD',
+        weight: 1,
+        opacity: 1,
+        color: '#FFF',
+        dashArray: '',
+        fillOpacity: 0.3
+    };
+}
+
+		//Initiating 2 different popups
+		var popup1 = L.popup({
+			maxWidth : 1800
+		});
+		var popup2 =
+    {
+      'maxWidth': '500',
+      'className' : 'another-popup' // classname for another popup
+    }
+
+	//Add the grid layer1
+	var grid_layer= new L.GeoJSON.AJAX("data/ref_grid_time.json", {
+			style: grid_style,
+			onEachFeature: function (feature, layer) {
+        layer.on('mouseover', function () {
+            this.setStyle({
+							weight: 1,
+			        color: '#666',
+			        dashArray: '',
+			        fillOpacity: 0.8
+            });
+        });
+        layer.on('mouseout', function () {
+            grid_layer.resetStyle(this);
+        },
+				layer.bindPopup('<p> Grid ID: '+feature.properties.PageName+'</p><p> Area of this grid: ' +feature.properties.area +' km2 </p><p> Weighting of this grid in global average anomaly calculation: '+feature.properties.a_weight+'</p>')
+				);
+    }
+	}).addTo(grid);
+
+
+
+    //Add data point as a layer
+		var sites = new L.GeoJSON.AJAX("data/anomaly.geojson",{
+			style : function(feature) {
+				return {
+					color: '#000',
+					weight: 0.5
+				}
+			},
+			pointToLayer: function(geoJsonPoint, latlng) {
+				return L.marker(latlng,{
+				icon: blackIcon
+			})
+			},
+			onEachFeature: function(feature, layer) {
+				layer.on('click',function(e) {
+					map.setView(e.latlng,2.5);
+					$("#paneltext").html('<h2> '+feature.properties.Location+'</h2><p> Metadata source: '
+										+feature.properties.Author+'</p><p> ID: '
+										+feature.properties.ID+'</p><p> Proxy: '
+										+feature.properties.Proxy+'</p><p> Temperature reference: '
+										+feature.properties.Temperature+'</p><p> Elevation/Depth: '
+										+feature.properties.Gao+' m</p><p> Resolution: '
+										+feature.properties.Resolution+'</p>');
+				}),
+				layer.bindPopup('<p>'+feature.properties.Location+'<br> See the info panel below. </p>', popup2)
+			}
+		}).addTo(sites);
+
+		//Combining received text with t
+   function getAnomaly(x){
+    var header = 't' + x.toString()
+    return header
+   }
+
+	 //Color ramp for grid layer 2
+  function getColor(i){
+    var colorToUse
+    var field = i
+    if (field >= 10) colorToUse = "#800026";
+    else if (field >= 8) colorToUse = "#bd0026";
+    else if (field >= 6) colorToUse = "#e31a1c";
+    else if (field >= 4) colorToUse = "#fc4e2a";
+    else if (field >= 2) colorToUse = "#fd8d3c";
+    else if (field > 0) colorToUse = "#feb24c";
+    else if (field == 0) colorToUse = "none";
+    else if (field >= -2) colorToUse = "#e0f3f8";
+    else if (field >= -4) colorToUse = "#9ecae1";
+    else if (field >= -6) colorToUse = "#6baed6";
+    else if (field >= -8) colorToUse = "#4292c6";
+    else if (field >= -10) colorToUse = "#2171b5";
+    else colorToUse = "none";
+
+    return colorToUse
+  }
+
+	// Receiving the text from HTML,this is from Select menu
+	function inputAge() {
+		var x = $('#mySelect').val();
+		return x
+	}
+
+	// Style of gird layer 2
+	function temporalGrid_style(){
+			var style = parseInt(inputAge(),10)
+			var age = getAnomaly(style.toString())
+			//clear()
+			initLoad(age)
+	}
+	function initLoad(age){
+		var datatest;
+	  var temporalGrid = new L.GeoJSON.AJAX("data/ref_grid_time.json",{
+	    style : function (feature) {
+				  //var style = parseInt(inputAge(),10)
+					var inputAge = age
+					return {
+			         //style of
+			         weight: 0.8,
+			         opacity: 0.5,
+			         color: getColor(feature.properties[inputAge]),
+							 fillOpacity: 0.6
+			       };
+			},
+			onEachFeature: function(feature, layer) {
+				var inputAge = age
+				datatest=feature.properties[inputAge]
+				layer.bindPopup('<p> Temperature anomaly at this location of this time is '+datatest+'</p><p>Add the "Grids" layer from upper-left menu to see the area and weighted area of this grid.');
+			}
+		}).addTo(temporal);
+	}
+
+
+	//Add map
+	var map = L.map('map', {
+			center: [0,0],
+		  zoom: 1,
+			layers: [topographic, sites, temporal]
+	});
+
+
+		//Setting base layer and overlay layers
+
+	var baseLayers = {
+		"Topographic":topographic,
+		"Satellite": satellite
+	};
+
+	var overlays = {
+		"Sites": sites,
+		"Grids": grid,
+  	"Temporal Grids": temporal
+	};
+
+//Add layer control
+L.control.layers(baseLayers, overlays).addTo(map);
+
+
+//	});
+
+</script>
+</div></div>
+ <div id="paneltext" align="left"></div>
+
+
+</body>
+</html>
