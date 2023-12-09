@@ -16,7 +16,7 @@
 - 高铁线路：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/china/HighSpeedRail.zip)
 - 高铁站：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/china/HighSpeedRailStation.zip)
 - 唐朝疆域（开元时期）：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/china/TangDynasty.zip)
-- 五代十国：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/china/FiveDynasties.zip)
+- 五代十国（后晋时期）：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/china/FiveDynasties.zip)
 - 北宋疆域（熙宁时期）：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/china/SongDynasty.zip)
 - 南宋疆域（嘉定时期）：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/china/SouthernSong.zip)
 - 明朝疆域（永乐时期）：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/china/MingDynasty.zip)
