@@ -1,23 +1,51 @@
-###地理数据
-####矢量数据
-#####全球数据
-全球各国
-全球主要湖泊
-全球主要河流
-柯本气候分区
-#####中国数据
-中国各省
-中国区县：[链接](https://pan.baidu.com/s/15t7t6nLj-ntjwfOeZzfW4w), 提取码 y6s9
-中国主要湖泊
-宋朝疆域
-明朝疆域
-清朝疆域
-科举考试进士统计（宋、明、清）
-#####世界各国数据
-美国各州
-加拿大各省
-欧洲各国
-####栅格数据
-- 全球海拔：[链接](https://pan.baidu.com/s/1OvaZS4l5ksXZXvHxyrObOw), 提取码 Dx1t
-- 全球1-12月平均温度：[链接](https://pan.baidu.com/s/1uqGziI6Qo--u6aL3itl9lg), 提取码 2941
-- 全球1-12月降水量：[链接](https://pan.baidu.com/s/1ZwynLfHlRVwEOdt7vsMpsw), 提取码 04Ag
+## 地理数据
+### 矢量数据
+##### 全球数据
+- 各大洲轮廓：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/world/WorldContinents.zip)
+- 全球各国：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/world/WorldCountries.zip)
+- 全球主要湖泊：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/world/WorldMajorLakes.zip)
+- 全球主要河流：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/world/WorldRivers.zip)
+- 柯本气候分区：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/world/KoppenClimates.zip)
+
+##### 中国数据
+- 中国各省：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/china/ChinaProvinces.zip)
+- 中国区县：[链接](https://pan.baidu.com/s/15t7t6nLj-ntjwfOeZzfW4w) (提取码 y6s9)
+- 中国主要湖泊：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/china/ChinaMajorLakes.zip)
+- 大运河：[链接]()
+- 丝绸之路：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/china/SilkRoad.zip)
+- 唐朝疆域（开元时期）：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/china/TangDynasty.zip)
+- 五代十国：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/china/FiveDynasties.zip)
+- 北宋疆域（熙宁时期）：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/china/SongDynasty.zip)
+- 南宋疆域（嘉定时期）：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/china/SouthernSong.zip)
+- 明朝疆域（永乐时期）：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/china/MingDynasty.zip)
+- 清朝疆域（嘉庆时期）：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/china/QingDynasty.zip)
+- 科举考试进士统计（宋、明、清）：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/china/ImperialExam.zip)
+
+##### 其他国家的基本数据
+- 美国：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/USA.zip)
+- 加拿大：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/Canada.zip)
+- 意大利：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/Italy.zip)
+- 巴西：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/Brazil.zip)
+- 阿根廷：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/Argentia.zip)
+- 埃及：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/Egypt.zip)
+- 法国：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/France.zip)
+- 德国：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/Germany.zip)
+- 伊朗：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/Iran.zip)
+- 肯尼亚：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/Kenya.zip)
+- 尼日利亚：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/Nigeria.zip)
+- 墨西哥：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/Mexico.zip)
+- 俄罗斯：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/Russia.zip)
+- 南非：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/SouthAfrica.zip)
+- 泰国：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/Thailand.zip)
+- 土耳其：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/Turkey.zip)
+- 英国：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/UK.zip)
+- 爱尔兰：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/Ireland.zip)
+- 埃塞俄比亚：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/Ethiopia.zip)
+- 波兰：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/Poland.zip)
+- 坦桑尼亚：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/Tanzania.zip)
+- 欧洲：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/europe.zip)
+
+### 栅格数据
+- 全球海拔：[链接](https://pan.baidu.com/s/1OvaZS4l5ksXZXvHxyrObOw) (提取码 Dx1t)
+- 全球1-12月平均温度：[链接](https://pan.baidu.com/s/1uqGziI6Qo--u6aL3itl9lg) (提取码 2941)
+- 全球1-12月降水量：[链接](https://pan.baidu.com/s/1ZwynLfHlRVwEOdt7vsMpsw) (提取码 04Ag)
