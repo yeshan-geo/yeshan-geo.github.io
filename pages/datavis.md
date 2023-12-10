@@ -1,11 +1,30 @@
 ## 地理数据
-### 矢量数据
+### 矢量数据 (Shapefile)
 #### 全球数据
 - 各大洲轮廓：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/world/WorldContinents.zip)
 - 全球各国：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/world/WorldCountries.zip)
 - 全球主要湖泊：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/world/WorldMajorLakes.zip)
 - 全球主要河流：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/world/WorldRivers.zip)
 - 柯本气候分区：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/world/KoppenClimates.zip)
+- 主要地震记录：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/world/WorldEarthquake.zip)
+- 洋流：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/world/ocean_currents.zip)
+- 火山：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/world/volcano.zip)
+- 飓风路线（1848-2018）：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/world/hurricane.zip)
+- 潮汐：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/world/Global_Tidal_Range_Classification.zip)
+- 活跃断层：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/world/FaultsWorld.zip)
+- 建成区：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/world/UrbanWorld.zip)
+- 全球陆地生态区：[链接](https://pan.baidu.com/s/1dbPnosuEmV-atnoN67Ln6w)（提取码 i6pd）
+- 海洋生物多样性统计：[链接](https://pan.baidu.com/s/1ge53LyaVY92VTVCFiUieag)（提取码 pd9j）
+- 植被大类别划分：[链接](https://pan.baidu.com/s/1_8EgX0vbi5-8RT_Psfxh5w)（提取码 r8m5）
+- 煤产量：[链接](https://pan.baidu.com/s/1FcXVyuyleTiwvMGvwdRpZg)（提取码 pal2）
+- 石油产量：[链接](https://pan.baidu.com/s/1uvoyB0iDmF8MawCVatwQ6A)（提取码 sk8b）
+- 石油储量：[链接](https://pan.baidu.com/s/1PiMJ57ZzCIjC3EHxNwfXfQ)（提取码 2c8i）
+- 天然气产量：[链接](https://pan.baidu.com/s/14x6GX8J1QkjnufxcXw1H7Q)（提取码 hn13）
+- 天然气储量：[链接](https://pan.baidu.com/s/1pMakByoPnaxnDHZMp4cd6w)（提取码 jcca）
+- 小麦产量（吨/公顷）：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/world/Wheat_Yield.zip)
+- 大豆产量（吨/公顷）：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/world/Soybean_Yield.zip)
+- 玉米产量（吨/公顷）：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/world/Corn_Yield.zip)
+- 水稻产量（吨/公顷）：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/world/Rice_Yield.zip)
 
 #### 中国数据
 - 中国各省：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/china/ChinaProvinces.zip)
@@ -15,6 +34,7 @@
 - 丝绸之路：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/china/SilkRoad.zip)
 - 高铁线路：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/china/HighSpeedRail.zip)
 - 高铁站：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/china/HighSpeedRailStation.zip)
+- 中国主要公路：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/china/ChinaRoads.zip)
 - 唐朝疆域（开元时期）：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/china/TangDynasty.zip)
 - 五代十国（后晋时期）：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/china/FiveDynasties.zip)
 - 北宋疆域（熙宁时期）：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/china/SongDynasty.zip)
@@ -25,33 +45,46 @@
 
 #### 其他国家的基本数据
 - 美国：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/USA.zip)
+  - 美国高速公路：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/USHighway.zip)
+  - 国家公园署：[链接](https://pan.baidu.com/s/14v5ekUn0Mn7wQrGhc62Pag) (提取码 htrm)
+  - 重要体育场：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/SportsVenues.zip)
 - 加拿大：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/Canada.zip)
+  - 加拿大高速公路：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/CanadaHighway.zip)
 - 意大利：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/Italy.zip)
 - 巴西：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/Brazil.zip)
 - 阿根廷：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/Argentia.zip)
 - 埃及：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/Egypt.zip)
 - 法国：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/France.zip)
+  - 法国主要公路：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/FranceRds.zip)
 - 德国：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/Germany.zip)
--- 德国铁路：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/germany_railways.zip)
+  - 德国主要公路：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/GermanyRds.zip)
+  - 德国铁路：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/germany_railways.zip)
 - 伊朗：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/Iran.zip)
 - 肯尼亚：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/Kenya.zip)
 - 尼日利亚：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/Nigeria.zip)
 - 日本：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/Japan.zip)
--- 日本公路：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/JapanRoad.zip)
--- 日本铁路：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/JapanRail.zip)
+  - 日本主要公路：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/JapanRoad.zip)
+  - 日本铁路：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/JapanRail.zip)
 - 墨西哥：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/Mexico.zip)
 - 俄罗斯：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/Russia.zip)
 - 南非：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/SouthAfrica.zip)
 - 泰国：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/Thailand.zip)
 - 土耳其：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/Turkey.zip)
 - 英国：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/UK.zip)
+  - 英国高速公路：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/UKHighway.zip)
 - 爱尔兰：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/Ireland.zip)
 - 埃塞俄比亚：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/Ethiopia.zip)
 - 波兰：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/Poland.zip)
+  - 波兰主要公路：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/PolandRds.zip)
 - 坦桑尼亚：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/Tanzania.zip)
+- 澳大利亚：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/Australia.zip)
+  - 澳大利亚公路：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/AustraliaRds.zip)
+- 新西兰：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/NZ.zip)
+  - 新西兰公路：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/NZRds.zip)
 - 欧洲：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/europe.zip)
+  - 欧洲足球体育场：[链接](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/SoccerStadiums.zip)
 
-## 栅格数据
+## 栅格数据 (GeoTIFF)
 - 全球海拔：[链接](https://pan.baidu.com/s/1OvaZS4l5ksXZXvHxyrObOw) (提取码 Dx1t)
 - 全球1-12月平均温度：[链接](https://pan.baidu.com/s/1uqGziI6Qo--u6aL3itl9lg) (提取码 2941)
 - 全球1-12月降水量：[链接](https://pan.baidu.com/s/1ZwynLfHlRVwEOdt7vsMpsw) (提取码 04Ag)
