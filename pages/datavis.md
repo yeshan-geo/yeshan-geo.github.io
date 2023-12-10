@@ -77,6 +77,7 @@
 [格陵兰岛政区](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/Greenland.zip) |
 [英国政区](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/UK.zip) |
 [英国高速公路](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/UKHighway.zip) |
+[英国国家公园](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/UKNP.zip) |
 [爱尔兰政区](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/Ireland.zip) |
 [埃塞俄比亚政区](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/Ethiopia.zip) |
 [波兰政区](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/Poland.zip) |
@@ -110,7 +111,62 @@
 [明朝疆域 (永乐时期)](https://github.com/yeshancqcq/geographic_data/blob/main/china/MingDynasty.zip) |
 [清朝疆域 (嘉庆时期)](https://github.com/yeshancqcq/geographic_data/blob/main/china/QingDynasty.zip) |
 [科举考试进士统计 (宋、明、清)](https://github.com/yeshancqcq/geographic_data/blob/main/china/ImperialExam.zip) |
-[吐谷浑](https://github.com/yeshancqcq/geographic_data/blob/main/china/Tuyuhun.zip)
+[吐谷浑](https://github.com/yeshancqcq/geographic_data/blob/main/china/Tuyuhun.zip) |
+[罗马帝国行省](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/RomanEmpire.zip) |
+[前苏联](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/USSR.zip) |
+[路易斯安纳购地案](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/LouisianaPurchase.zip) |
+[南北战争](https://github.com/yeshancqcq/geographic_data/blob/main/bycountry/CivilWar.zip)
+
+#### 城市数据
+[蒙特利尔](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Montreal.zip) |
+[魁北克城](https://github.com/yeshancqcq/geographic_data/blob/main/cities/QuebecCity.zip) |
+[多伦多](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Toronto.zip) |
+[卡尔加里](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Calgary.zip) |
+[埃德蒙顿](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Edmonton.zip) |
+[温哥华](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Vancouver.zip) |
+[堪培拉](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Canberra.zip) |
+[悉尼](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Sydney.zip) |
+[阿姆斯特丹](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Amsterdam.zip) |
+[海牙](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Hague.zip) |
+[根特](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Ghent.zip) |
+[安特卫普](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Antwerp.zip) |
+[都柏林](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Dublin.zip) |
+[伦敦](https://github.com/yeshancqcq/geographic_data/blob/main/cities/London.zip) |
+[奥斯丁](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Austin.zip) |
+[华盛顿](https://github.com/yeshancqcq/geographic_data/blob/main/cities/DC.zip) |
+[西雅图](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Seattle.zip) |
+[旧金山](https://github.com/yeshancqcq/geographic_data/blob/main/cities/SF.zip) |
+[盐湖城](https://github.com/yeshancqcq/geographic_data/blob/main/cities/SaltLC.zip) |
+[克利夫兰](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Cleveland.zip) |
+[亚特兰大](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Atlanta.zip) |
+[辛辛那提](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Cincinnati.zip) |
+[达拉斯](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Dallas.zip) |
+[巴尔的摩](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Baltimore.zip) |
+[费城](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Philadelphia.zip) |
+[檀香山](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Honululu.zip) |
+[芝加哥](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Chicago.zip) |
+[拉斯维加斯](https://github.com/yeshancqcq/geographic_data/blob/main/cities/LV.zip) |
+[纽约](https://github.com/yeshancqcq/geographic_data/blob/main/cities/NYC.zip) |
+[休斯敦](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Houston.zip) |
+[匹兹堡](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Pittsburgh.zip) |
+[丹佛](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Denver.zip) |
+[新奥尔良](https://github.com/yeshancqcq/geographic_data/blob/main/cities/NewOrleans.zip) |
+[洛杉矶](https://github.com/yeshancqcq/geographic_data/blob/main/cities/LA.zip) |
+[柏林](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Berlin.zip) |
+[德累斯顿](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Dresden.zip) |
+[科隆](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Cologne.zip) |
+[汉堡](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Hamburg.zip) |
+[莫斯科](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Moscow.zip) |
+[圣彼得堡](https://github.com/yeshancqcq/geographic_data/blob/main/cities/StPetersburg.zip) |
+[罗马](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Rome.zip) |
+[威尼斯](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Venice.zip) |
+[米兰](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Milan.zip) |
+[巴黎](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Paris.zip) |
+[苏黎世](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Zurich.zip) |
+[巴塞尔](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Basel.zip) |
+[日内瓦](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Geneva.zip) |
+[维也纳](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Vienna.zip) |
+[马德里](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Madrid.zip) |
 
 ### 栅格数据 (GeoTIFF)
 [全球海拔](https://pan.baidu.com/s/1OvaZS4l5ksXZXvHxyrObOw) (提取码 Dx1t) |
