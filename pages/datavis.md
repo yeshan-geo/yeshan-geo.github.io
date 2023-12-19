@@ -141,7 +141,7 @@
 [亚特兰大](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Atlanta.zip) |
 [辛辛那提](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Cincinnati.zip) |
 [达拉斯](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Dallas.zip) |
-[底特律](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Detriot.zip) |
+[底特律](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Detroit.zip) |
 [巴尔的摩](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Baltimore.zip) |
 [费城](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Philadelphia.zip) |
 [檀香山](https://github.com/yeshancqcq/geographic_data/blob/main/cities/Honululu.zip) |
