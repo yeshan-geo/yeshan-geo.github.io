@@ -19,8 +19,8 @@ Geoscientific Big Data, Geoscience Software Development, Paleoclimate, Paleogeog
 ## Teaching
 
 #### China University of Geosciences (Beijing)
-- SR043268: Introduction to Artificial Intelligence
-- DR040017: Data Analysis and Visualization
+- SR043268: [Introduction to Artificial Intelligence](https://yeshan-geo.github.io/pages/intro_ai)
+- DR040017: [Data Analysis and Visualization](https://yeshan-geo.github.io/pages/datavis)
 - DR043229: Computer Vision
 
 #### Previous
