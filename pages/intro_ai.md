@@ -1,4 +1,4 @@
-##人工智能专业导论
+## 人工智能专业导论
 ### 课件
 - [第1课：基础导论](https://github.com/yeshan-geo/yeshan-geo.github.io/blob/main/documents/intro_ai/L1-%E4%B8%93%E4%B8%9A%E5%AF%BC%E8%AE%BA.pdf)
 - [第2课：哲学基础](https://github.com/yeshan-geo/yeshan-geo.github.io/blob/main/documents/intro_ai/L2-%E5%93%B2%E5%AD%A6%E5%9F%BA%E7%A1%80.pdf)
