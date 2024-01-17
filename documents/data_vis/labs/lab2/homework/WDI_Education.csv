@@ -1,0 +1,143 @@
+country,primary_school_completion_rate,primary_school_enroll_rate,trained_teacher,compulsory_education,poverty_ratio,region,income_class
+Albania,95.95620728,97.65542,75.84456825,9,0.1,Europe,Middle-upper
+Andorra,97.16477013,97.94021,100,10,0,Europe,High
+Argentina,86.2397231,99.4496,80.3823881,14,0.7,Americas,Middle-upper
+Armenia,99.32046509,92.49744,75.9700737,12,1.1,Asia & Pacific,Middle-upper
+Australia,99.88547516,96.7724,99.82469135,10,0.5,Asia & Pacific,High
+Austria,98.22936157,88.8771,100,13,0.7,Europe,High
+Azerbaijan,98.49313202,94.96529,99.57421811,10,5.5,Asia & Pacific,Middle-upper
+Bahamas,95.07771301,75.50359,90.1564116,12,2.2,Americas,High
+Bangladesh,54.60228195,84.33165,56.10413742,5,13.5,Asia & Pacific,Middle-lower
+Barbados,78.6238426,98.03848,70.5101301,11,2.6,Americas,High
+Belarus,99.78855133,96.35791,99.54790908,11,0,Europe,Middle-upper
+Belgium,94.26251221,98.66219,99.99923513,12,0.1,Europe,High
+Belize,88.86719513,99.24787,68.81968102,8,1.3,Americas,Middle-upper
+Bolivia,64.38090827,89.84267,88.255071,14,5.6,Americas,Middle-lower
+Brazil,81.12454709,97.20202,92.13656108,14,4.7,Americas,Middle-upper
+Bulgaria,94.3992636,89.46126,95.35818351,11,2,Europe,Middle-upper
+Burki Faso,15.96338463,75.85293,86.74805797,10,40,Sub-Saharan Africa,Low
+Cabo Verde,51.92240906,92.86026,94.60944366,10,15.5,Sub-Saharan Africa,Middle-lower
+Cameroon,48.26652908,94.493,71.64666312,6,12.7,Sub-Saharan Africa,Middle-lower
+Canada,97.38183625,99.95587,100,10,0.2,Americas,High
+Central African Republic,30.84333038,71.3451,62.5823815,10,45,Sub-Saharan Africa,Low
+Chad,18.63986969,73.4665,66.24145317,10,41,Sub-Saharan Africa,Low
+Chile,86.27104187,94.04385,78.32818381,12,3,Americas,High
+China,98.2381313,96.25661,97.92341351,9,0.8,Asia & Pacific,Middle-upper
+Colombia,76.80166753,95.42469,97.57148951,12,4.9,Americas,Middle-upper
+Congo,71.99141693,70.42616,82.13951111,10,44.5,Sub-Saharan Africa,Middle-lower
+Congo Dem Republic,60.78171794,60.30196,93.61438533,6,62.1,Sub-Saharan Africa,Low
+Costa Rica,81.27166684,98.36736,93.32377548,13,1.3,Americas,Middle-upper
+Cote d Ivoire,34.98509407,86.90249,97.26139577,10,26.3,Sub-Saharan Africa,Middle-lower
+Croatia,96.97402191,97.85166,98.24818351,8,0.6,Europe,High
+Cuba,91.57204437,94.53374,100,9,5.3,Americas,Middle-upper
+Cyprus,94.51953803,97.0838,100,10,0,Middle East,High
+Czechia,99.86027442,88.80417,97.8183581,10,0,Europe,High
+Denmark,98.99236163,99.0209,100,10,0.3,Europe,High
+Djibouti,39.28207016,57.24558,99.00107956,10,42.1,Middle East,Middle-lower
+Dominica,82.3881631,97.98016,62.16865463,12,5.4,Americas,Middle-upper
+Dominican Republic,69.83583323,95.13993,89.27710597,15,2,Americas,Middle-upper
+Ecuador,81.15043934,98.06549,88.89264679,15,3.6,Americas,Middle-upper
+Egypt,83.23818616,98.64429,81.43597107,12,15,Middle East,Middle-lower
+El Salvador,57.8012515,85.17199,95.56062622,15,2.6,Americas,Middle-upper
+Equatorial Guinea,48.348185,70.59291,35.95601368,6,18.4,Sub-Saharan Africa,Middle-upper
+Eritrea,70.24828135,55.28861,84.89278539,8,59.9,Sub-Saharan Africa,Low
+Estonia,99.77649689,93.68565,96.3818353,9,0.5,Europe,High
+Eswatini,69.5823815,84.37134,77.74375057,7,36.1,Sub-Saharan Africa,Middle-lower
+Ethiopia,22.31374359,60.19611,66.39818351,8,57.4,Sub-Saharan Africa,Low
+Finland,99.6828616,99.12044,99.28418351,11,0,Europe,High
+France,97.90695021,99.37467,100,13,0.1,Europe,High
+Gabon,77.3248814,93.49201,52.04771423,10,4.4,Sub-Saharan Africa,Middle-upper
+Gambia,38.92977651,77.65176,86.24892044,9,53.3,Sub-Saharan Africa,Low
+Georgia,98.83454895,97.95282,95.3418511,9,4.9,Asia & Pacific,Middle-upper
+Germany,100,97.62417,100,13,0,Europe,High
+Ghana,61.42816925,77.49929,56.67317804,11,25.2,Sub-Saharan Africa,Middle-lower
+Greece,94.25502625,97.94221,97.5923593,10,1,Europe,High
+Guatemala,45.04037247,87.19765,80.24851385,16,7.5,Americas,Middle-upper
+Guinea,19.81249619,78.08732,74.34141286,6,10.5,Sub-Saharan Africa,Middle-lower
+Guinea-Bissau,72.15381385,70.29591,38.93130112,9,38.5,Sub-Saharan Africa,Low
+Haiti,46.36672974,67.46221,52.3818351,6,55,Americas,Middle-lower
+Honduras,56.73666721,79.95579,62.3281835,12,14.6,Americas,Middle-lower
+Hungary,99.59053497,96.86899,99.3293193,13,1.3,Europe,High
+Iceland,95.792478,99.51819,97.38138185,10,0,Europe,High
+India,58.37718887,80.59196,79.78021545,8,18.1,Asia & Pacific,Middle-lower
+Indonesia,78.1352975,93.62147,87.3913941,9,7.5,Asia & Pacific,Middle-upper
+Iran,75.38183261,99.7847,100,9,0.7,Middle East,Middle-lower
+Ireland,96.39459166,99.97016,97.23841351,10,0.1,Europe,High
+Israel,95.26179377,97.05013,100,15,0.2,Middle East,High
+Italy,94.84502157,97.69825,99.859135,12,1.6,Europe,High
+Jamaica,80.3835486,84.39417,98.03543949,6,9.5,Americas,Middle-upper
+Japan,97.4924061,99.18482461,100,9,0.1,Asia & Pacific,High
+Kazakhstan,99.49225998,99.71618,100,9,0.1,Asia & Pacific,Middle-upper
+Kenya,66.74222692,90.56916,100,12,19.7,Sub-Saharan Africa,Middle-lower
+Kiribati,88.93831635,98.23962,66.19111697,9,3.8,Asia & Pacific,Middle-lower
+Kyrgyz,98.87036896,98.47782,89.27337646,10,1.1,Asia & Pacific,Middle-lower
+Latvia,99.75531551,96.79255,100,11,0.6,Europe,High
+Lesotho,58.23323059,91.20179,72.98315048,7,39,Sub-Saharan Africa,Middle-lower
+Liechtenstein,99.2347816,99.31079,100,9,0,Europe,High
+Lithuania,98.80910916,99.74473,93.75937445,11,1.3,Europe,High
+Luxembourg,100,98.79947,100,12,0.1,Europe,High
+Maldives,62.9823494,96.29823,85.00178909,7,0,Asia & Pacific,Middle-upper
+Mali,14.98945999,62.13872,52.42385101,9,66.4,Sub-Saharan Africa,Low
+Malta,98.52216,98.46075,82.60822732,11,0.1,Middle East,High
+Marshall Islands,96.43000031,74.5278,51.93130493,13,0.5,Asia & Pacific,Middle-upper
+Mauritius,66.98356628,95.33664,100,11,0.9,Sub-Saharan Africa,Middle-upper
+Mexico,78.56902398,99.21367,88.99089877,14,3.2,Americas,Middle-upper
+Moldova,99.19204521,90.03561,100,10,0.1,Europe,Middle-upper
+Mongolia,91.36827087,98.72633,97.48530663,12,0.7,Asia & Pacific,Middle-lower
+Montenegro,97.48744202,93.73702,95.249135,9,2.5,Europe,Middle-upper
+Namibia,62.813581,77.68216,92.06277161,7,19.5,Sub-Saharan Africa,Middle-upper
+Netherlands,98.43915049,99.38191,99.9992451,13,0,Europe,High
+New Zealand,98.58281565,98.52583,100,10,0,Asia & Pacific,High
+Nigeria,63.80646896,89.66171,64.1625843,9,12.6,Sub-Saharan Africa,Middle-lower
+North Macedonia,92.46578598,93.55164,95.351351,13,4.2,Europe,Middle-upper
+Norway,99.77057103,99.8062,100,10,0.3,Europe,High
+Pakistan,47.53153949,66.01372,81.60636054,12,20.4,Asia & Pacific,Middle-lower
+Palestine,92.96190227,95.77247,100,10,0.5,Middle East,Middle-upper
+Panama,85.59393616,89.85911,93.49630192,11,1.5,Americas,High
+Paraguay,74.45916621,94.30205,92.0764389,13,1.7,Americas,Middle-upper
+Peru,69.64083417,99.56785,73.8823581,14,4.6,Americas,Middle-upper
+Philippines,83.16342545,94.85361,100,13,8.5,Asia & Pacific,Middle-lower
+Poland,98.85338266,97.30196,99.61999969,8,0.2,Europe,High
+Portugal,90.44701524,96.88158,100,12,0.4,Europe,High
+Qatar,80.23960876,97.23088,100,12,0.6,Middle East,High
+Romania,98.57870399,87.4854,96.499231,10,3.2,Europe,High
+Russia,99.60074997,97.33678,98.81366621,11,0,Europe,Middle-upper
+Rwanda,35.47307396,98.84059,91.40913137,6,52,Sub-Saharan Africa,Low
+Samoa,96.2550354,96.35006,95.5239135,8,1.1,Asia & Pacific,Middle-lower
+San Marino,96.59699249,98.20016,58.37947922,10,0,Europe,High
+Saudi Arabia,83.66566467,97.54549,100,9,0.7,Middle East,High
+Senegal,21.94266701,73.53294,68.41008682,11,33.7,Sub-Saharan Africa,Middle-lower
+Serbia,96.48506274,99.16856,63.0774231,8,6.4,Europe,Middle-upper
+Seychelles,70.34823841,94.62863,79.07515687,10,1.8,Sub-Saharan Africa,High
+Sierra Leone,32.80588531,98.96839,59.29106522,9,34.2,Sub-Saharan Africa,Low
+Singapore,86.00411779,99.98961,98.38272349,6,0,Asia & Pacific,High
+Slovak Republic,99.78486718,82.21387,95.90000153,11,1.4,Europe,High
+Slovenia,99.64631435,98.18158,97.3281385,9,0,Europe,High
+South Africa,82.96507492,92.49196,85.2381384,9,11.8,Sub-Saharan Africa,Middle-upper
+South Korea,94.90540695,97.26558,100,9,0.2,Asia & Pacific,High
+South Sudan,55.2383914,55.40929,44.02709961,8,67.3,Sub-Saharan Africa,Low
+Spain,90.34047413,98.85537,100,10,1.1,Europe,High
+Sri Lanka,84.1813855,99.06007,83.81303024,11,1.3,Asia & Pacific,Middle-lower
+St. Kitts and Nevis,93.62939716,96.216,66.26725048,12,0.3,Americas,High
+St. Lucia,82.49358214,97.9736,86.02176285,10,5.1,Americas,Middle-upper
+St. Vincent and the Gredines,91.2883606,97.41197,79.87479713,12,1.7,Americas,Middle-upper
+Sudan,59.32818531,59.17542,48.23515351,8,64.5,Sub-Saharan Africa,Low
+Sweden,100,99.60466,100,10,0.3,Europe,High
+Switzerland,99.67044067,99.75942,100,11,0,Europe,High
+Tajikistan,95.75018311,97.74311,96.82384109,9,7.7,Asia & Pacific,Middle-lower
+Tanzania,63.36272049,84.56048,97.56053925,7,42,Sub-Saharan Africa,Middle-lower
+Thailand,65.21500626,95.33915,100,9,0,Asia & Pacific,Middle-upper
+Togo,36.82966518,75.33105,76.19950443,10,33,Sub-Saharan Africa,Low
+Turkiye,87.94481066,94.14611,97.2481835,12,0.2,Middle East,Middle-upper
+Tuvalu,93.25488281,87.89088,68.68674393,8,1.3,Asia & Pacific,Middle-upper
+Uganda,39.6780599,80.59196,78.61921183,7,42.7,Sub-Saharan Africa,Low
+Ukraine,92.67930301,95.22156,92.05373298,11,0.1,Europe,Middle-lower
+United Arab Emirates,89.60606079,99.40189,100,12,0.5,Middle East,High
+United Kingdom,99.88056619,99.65208,100,11,0.2,Europe,High
+United States,98.58882488,99.64003,100,12,1,Americas,High
+Uruguay,89.35181704,99.91235,100,14,0.1,Americas,High
+Uzbekistan,99.99710083,97.5543,99.63930702,12,7,Asia & Pacific,Middle-lower
+Vietnam,88.63423157,95.22762,99.52637482,10,1.3,Asia & Pacific,Middle-lower
+Yemen,70.34824863,84.39664,50.2328165,9,30.8,Middle East,Low
+Zambia,60.81071854,77.20116,89.29689135,7,34,Sub-Saharan Africa,Middle-lower
+Zimbabwe,77.59745636,69.49166,94.23592606,7,39.4,Sub-Saharan Africa,Middle-lower
