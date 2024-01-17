@@ -1,6 +1,6 @@
 ## 数据分析和可视化
 ### 课件
-- [L1：数据、数据思维1](https://github.com/yeshan-geo/yeshan-geo.github.io/blob/main/documents/data_vis/lecture/L1.pdf)
+- [L1：数据思维1](https://github.com/yeshan-geo/yeshan-geo.github.io/blob/main/documents/data_vis/lecture/L1.pdf)
 - [L2：数据思维2、数据预处理和数据分析1](https://github.com/yeshan-geo/yeshan-geo.github.io/blob/main/documents/data_vis/lecture/L2.pdf)
 - [L3：数据预处理和数据分析2、数据管理](https://github.com/yeshan-geo/yeshan-geo.github.io/blob/main/documents/data_vis/lecture/L3.pdf)
 - [L4：可视化的作用、发展史1](https://github.com/yeshan-geo/yeshan-geo.github.io/blob/main/documents/data_vis/lecture/L4.pdf)
