@@ -8,7 +8,7 @@
 - [L6：视觉感知和色彩空间2、视觉通道1](https://github.com/yeshan-geo/yeshan-geo.github.io/blob/main/documents/data_vis/lecture/L6.pdf)
 - [L7：视觉通道2、信息图表1](https://github.com/yeshan-geo/yeshan-geo.github.io/blob/main/documents/data_vis/lecture/L7.pdf)
 - [L8：信息图表2](https://github.com/yeshan-geo/yeshan-geo.github.io/blob/main/documents/data_vis/lecture/L8.pdf)
-- [L9：数据分析3、时空数据1](https://github.com/yeshan-geo/yeshan-geo.github.io/blob/main/documents/data_vis/lecture/L9.pdf)
+- [L9：信息图表3、时空数据1](https://github.com/yeshan-geo/yeshan-geo.github.io/blob/main/documents/data_vis/lecture/L9.pdf)
 - [L10：时空数据2](https://github.com/yeshan-geo/yeshan-geo.github.io/blob/main/documents/data_vis/lecture/L10.pdf)
 
 ### Lab及作业数据
