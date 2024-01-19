@@ -21,6 +21,7 @@
 [石油储量](https://pan.baidu.com/s/1PiMJ57ZzCIjC3EHxNwfXfQ) (提取码 2c8i) |
 [天然气产量](https://pan.baidu.com/s/14x6GX8J1QkjnufxcXw1H7Q) (提取码 hn13) |
 [天然气储量](https://pan.baidu.com/s/1pMakByoPnaxnDHZMp4cd6w) (提取码 jcca) |
+[东亚地质图](https://github.com/yeshancqcq/geographic_data/blob/main/world/aisa_geology.zip) |
 [小麦产量 (吨/公顷)](https://github.com/yeshancqcq/geographic_data/blob/main/world/Wheat_Yield.zip) |
 [大豆产量 (吨/公顷)](https://github.com/yeshancqcq/geographic_data/blob/main/world/Soybean_Yield.zip) |
 [玉米产量 (吨/公顷)](https://github.com/yeshancqcq/geographic_data/blob/main/world/Corn_Yield.zip) |
