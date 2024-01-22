@@ -20,4 +20,4 @@
 - [Lab 6: R数据可视化综合练习（开放性题目）](https://github.com/yeshan-geo/yeshan-geo.github.io/tree/main/documents/data_vis/labs/lab6)
 
 ### 地理数据
-- [地理数据集（Shapefile 和 GeoTiff）](https://yeshan-geo.github.io/pages/datavis)
+- [地理数据集（Shapefile 和 GeoTiff）](https://yeshan-geo.github.io/pages/geo_data)
