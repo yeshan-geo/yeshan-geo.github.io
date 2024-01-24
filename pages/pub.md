@@ -1,6 +1,8 @@
 ### Publications
 
 #### Papers
+- **Ye S.**<sup>*</sup>, "Investigating the role of contemporary climate on fossil collecting bias" _Paleontological Research_, 2024 (accepted, in prod.)
+- Hou L., Ma C.<sup>*</sup>, Tang W., Zhou Y., **Ye S.**, Chen X., Zhang X., Yu C., Chen A., Zheng D., and Cao Z., "DDViT: Advancing lithology identification on FMI image logs through a dual modal transformer model with less information drop" _Geoenergy Science and Engineering_, 2024.
 - He H., Ma C.<sup>*</sup>, **Ye S.**, Tang W., Zhou Y., Yu Z., Yi J., Hou L., Hou M., "Low resource Chinese geological text named entity recognition based on prompt learning" _Journal of Earth Science_, 2023 (accepted, in prod.)
 - **Ye S.**<sup>*</sup>, Cuzzone J., Marcott S.A., Licciardi J., Ward D., Heyman J., and Quinn D., “A quantitative assessment of snow shielding effects on surface exposure dating from a western North American 10Be data compilation” _Quaternary Geochronology_, 2023
 - **Ye S.**<sup>*</sup>, and Peters S.E., “Bedrock geological map predictions for Phanerozoic fossil occurrences” _Paleobiology_, 2023
@@ -8,7 +10,7 @@
 - Kang Y., Wu K., Gao S.<sup>*</sup>, Ng I., Rao J., **Ye S.**, Zhang F., and Fei T., “STICC: a multivariate spatial clustering method for repeated geographic pattern discovery with consideration of spatial contiguity” _International Journal of Geographical Information Science_, 2022
 
 #### Ongoing papers
-- **Ye S.**, Hartman S., Carrano M., and Peters S.E., “Sedimentary rock quantity and the dinosaur fossil record in the Cretaceous of North America” in prep
+- **Ye S.**<sup>*</sup>, Hartman S., Carrano M., Peters S.E., and Wang J., “Sedimentary rock quantity and the dinosaur fossil record in the Cretaceous of North America” in prep
 
 #### Conference abstracts and preprints
 - **Ye S.**, "Generative AI May Prefer to Present National-level Characteristics of Cities Based on Stereotypical Geographic Impressions at the Continental Level" _Arxiv Preprint_, 2023
