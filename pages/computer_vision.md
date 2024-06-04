@@ -17,7 +17,7 @@
 |11. 全连接神经网络2|梯度消失和梯度爆炸、动量法、AdaGrad、Adam、权值初始化、BN、Dropout、调参|[pdf](https://github.com/yeshan-geo/yeshan-geo.github.io/blob/main/documents/cv/2024/L11-FC_networks2.pdf)|
 |12. 卷积神经网络1|CNN总体架构、纹理基元、卷积核组|[pdf](https://github.com/yeshan-geo/yeshan-geo.github.io/blob/main/documents/cv/2024/L12-CNN1.pdf)|
 |13. 卷积神经网络2|卷积层的堆叠、Pooling|[pdf](https://github.com/yeshan-geo/yeshan-geo.github.io/blob/main/documents/cv/2024/L13-CNN2.pdf)|
-|14. 经典构架1|AlexNet、ZF Net|[pdf](https://github.com/yeshan-geo/yeshan-geo.github.io/blob/main/documents/cv/2024/L14-CNN_architecture1.pdf)|
+|14. 经典构架1|LeNet、AlexNet、ZF Net|[pdf](https://github.com/yeshan-geo/yeshan-geo.github.io/blob/main/documents/cv/2024/L14-CNN_architecture1.pdf)|
 |15. 经典构架2|VGG、GoogLeNet、ResNet|[pdf](https://github.com/yeshan-geo/yeshan-geo.github.io/blob/main/documents/cv/2024/L15-CNN_architecture2.pdf)|
 |16. 前沿进展|生成式模型、风格迁移、Vision Transformer|[pdf](https://github.com/yeshan-geo/yeshan-geo.github.io/blob/main/documents/cv/2024/L16-Latest.pdf)|
 
