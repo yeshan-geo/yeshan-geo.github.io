@@ -2,7 +2,7 @@
 
 ### 课件
 
-|顺序|题目|主要内容|课件|
+|#|题目|主要内容||
 |---|---|---|---|
 |1|概述|课程概况、行业概况、学科关系、哲学基础、发展历史|[pdf](https://github.com/yeshan-geo/yeshan-geo.github.io/blob/main/documents/cv/2024/L1-Introduction.pdf)|
 |2|硬件|机器视觉系统的构成、光源、镜头、相机、感光器件|[pdf](https://github.com/yeshan-geo/yeshan-geo.github.io/blob/main/documents/cv/2024/L2-Sensors.pdf)|
