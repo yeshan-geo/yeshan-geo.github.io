@@ -19,7 +19,7 @@
 |13. 卷积神经网络2|卷积层的堆叠、Pooling|[pdf](https://yeshan-geo.github.io/documents/cv/2024/L13-CNN2.pdf)|
 |14. 经典构架1|LeNet、AlexNet|[pdf](https://yeshan-geo.github.io/documents/cv/2024/L14-CNN_architecture1.pdf)|
 |15. 经典构架2|ZF Net、VGG、GoogLeNet、ResNet|[pdf](https://yeshan-geo.github.io/documents/cv/2024/L15-CNN_architecture2.pdf)|
-|16. 前沿进展|生成式模型、风格迁移、Vision Transformer|[pdf](https://yeshan-geo.github.io/documents/cv/2024/L16-Latest.pdf)|
+|16. 前沿进展|Vision Transformer、生成式模型|[pdf](https://yeshan-geo.github.io/documents/cv/2024/L16-Latest.pdf)|
 
 每个节次90分钟。
 
