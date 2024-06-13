@@ -5,5 +5,5 @@ Currently, I am actively involved in the [Deep-time Digital Earth (DDE)](https:/
 ## Past participated projects
 
 - [Sparrow](https://sparrow-data.org/): a web-based platform for geochemical data management and archiving.
-- [Macrostrat](https://macrostrat.org/): a geospatial database containing lithological and stratigraphic information.
+- [Macrostrat](https://macrostrat.org/): a geospatial database containing lithological and stratigraphic information. (Useful documents: [How to use Macrostrat API](https://yeshan-geo.github.io/documents/others/How-To-Macrostrat-API.pdf), and [A (demo) Python notebook for extracting and manipulating Macrostrat data](https://github.com/yeshancqcq/earthcube_notebook))
 - [GeoDeepDive (xDD)](https://geodeepdive.org/): a digital online library.
