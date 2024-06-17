@@ -12,7 +12,7 @@
 |6. 图像分类任务2|图像的向量表示、图像的特征表示、机器学习流程|[pdf](https://yeshan-geo.github.io/documents/cv/2024/L6-Image_classification2.pdf)|
 |7. 线性分类器1|线性代数表达、决策边界、Hinge loss|[pdf](https://yeshan-geo.github.io/documents/cv/2024/L7-Linear_classifier1.pdf)|
 |8. 线性分类器2|超参数、正则项、梯度计算|[pdf](https://yeshan-geo.github.io/documents/cv/2024/L8-Linear_classifier2.pdf)|
-|9. 线性分类器3|随机梯度下降、小批量梯度下降、交叉验证|[pdf](https://yeshan-geo.github.io/documents/cv/2024/L9-Linear_classifier3.pdf)|
+|9. 模型的训练|随机梯度下降、小批量梯度下降、交叉验证|[pdf](https://yeshan-geo.github.io/documents/cv/2024/L9-Linear_classifier3.pdf)|
 |10. 全连接神经网络1|网络结构、激活函数、交叉熵损失和KL散度、信号传播、梯度回传|[pdf](https://yeshan-geo.github.io/documents/cv/2024/L10-FC_networks1.pdf)|
 |11. 全连接神经网络2|梯度消失和梯度爆炸、动量法、AdaGrad、Adam、权值初始化、BN、Dropout、调参|[pdf](https://yeshan-geo.github.io/documents/cv/2024/L11-FC_networks2.pdf)|
 |12. 卷积神经网络1|CNN总体架构、纹理基元、卷积核组|[pdf](https://yeshan-geo.github.io/documents/cv/2024/L12-CNN1.pdf)|
