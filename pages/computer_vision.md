@@ -23,6 +23,18 @@
 
 每个节次90分钟。
 
+### Lab 课作业
+
+|节次|主要内容||
+|---|---|---|
+|Lab 1|环境配置、Python练习、图像的基本操作|[pdf](https://yeshan-geo.github.io/documents/cv/2024/Lab1.pdf)|
+|Lab 2|卷积和滤波、物体轮廓识别|[pdf](https://yeshan-geo.github.io/documents/cv/2024/Lab2.pdf)|
+|Lab 3|图像金字塔|[pdf](https://yeshan-geo.github.io/documents/cv/2024/Lab3.pdf)|
+|Lab 4|傅里叶转换和频率域操作|[pdf](https://yeshan-geo.github.io/documents/cv/2024/Lab4.pdf)|
+|Lab 5|线性分类器的实现|[pdf](https://yeshan-geo.github.io/documents/cv/2024/Lab5.pdf)|
+|Lab 6|计算图的OOP实现、前向计算、反向计算|[pdf](https://yeshan-geo.github.io/documents/cv/2024/Lab6.pdf)|
+|Lab 7|ResNet和迁移学习|[pdf](https://yeshan-geo.github.io/documents/cv/2024/Lab7.pdf)|
+|Lab 8|风格迁移|[pdf](https://yeshan-geo.github.io/documents/cv/2024/Lab8.pdf)|
 
 ### 说明
 本课程部分内容参考了以下课程：
