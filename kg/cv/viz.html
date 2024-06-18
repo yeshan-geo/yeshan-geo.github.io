@@ -1,19 +1,19 @@
-<!doctype html>
 <html>
 <head>
-    <script src="./cytoscape.js"></script>
+    <meta charset="UTF-8">
+    <script type="text/javascript" src="./viz.js"></script>
+
+    <style type="text/css">
+        #mynetwork {
+            width: 600px;
+            height: 400px;
+            border: 1px solid lightgray;
+        }
+    </style>
 </head>
-<style>
-    #cy {
-        width: 100%;
-        height: 100%;
-        position: absolute;
-        top: 0px;
-        left: 0px;
-    }
-</style>
 <body>
-    <div id="cy"></div>
+<div id="mynetwork"></div>
+
+<script type="text/javascript" src="./graph.js"></script>
 </body>
-<script src="./graph.js" type="module"></script>
 </html>
