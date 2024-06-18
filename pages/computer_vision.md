@@ -1,5 +1,9 @@
 ## 计算机视觉 Computer Vision
 
+### 知识图谱
+
+[计算机视觉：课程知识图谱](https://yeshan-geo.github.io/kg/cv/viz.html)
+
 ### 课件
 
 |节次|主要内容||
