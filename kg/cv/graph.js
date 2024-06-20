@@ -75,7 +75,7 @@ var nodes = new vis.DataSet([
   {id:73, label:"正则项权重", group:"method"},
   {id:74, label:"卷积层", group:"feature"},
   {id:75, label:"池化层", group:"feature"},
-  {id:76, label:"局部相应归一化层", group:"feature"},
+  {id:76, label:"局部响应归一化层", group:"feature"},
   {id:77, label:"全连接层", group:"feature"},
   {id:78, label:"卷积核组", group:"feature"},
   {id:79, label:"卷积核/滤波器", group:"feature"},
