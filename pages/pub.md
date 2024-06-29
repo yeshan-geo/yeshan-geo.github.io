@@ -4,7 +4,7 @@
 - Cao Z., Ma C.<sup>*</sup>, Tang W., Zhou Y., Zhong H., **Ye S.**, Wu K., Chen X., Zheng D., Hou L., Zhang Y., Hou M., "CoreViT: a new vision transformer model for lithology identification in cores" _Geoenergy Science and Engineering_, 2024.
 - **Ye S.**<sup>*</sup>, "Investigating the role of contemporary climate on fossil collecting bias" _Paleontological Research_, 2024.
 - Hou L., Ma C.<sup>*</sup>, Tang W., Zhou Y., **Ye S.**, Chen X., Zhang X., Yu C., Chen A., Zheng D., and Cao Z., "DDViT: Advancing lithology identification on FMI image logs through a dual modal transformer model with less information drop" _Geoenergy Science and Engineering_, 2024.
-- He H., Ma C.<sup>*</sup>, **Ye S.**, Tang W., Zhou Y., Yu Z., Yi J., Hou L., Hou M., "Low resource Chinese geological text named entity recognition based on prompt learning" _Journal of Earth Science_, 2023 (accepted, in prod.)
+- He H., Ma C.<sup>*</sup>, **Ye S.**, Tang W., Zhou Y., Yu Z., Yi J., Hou L., Hou M., "Low resource Chinese geological text named entity recognition based on prompt learning" _Journal of Earth Science_, 2024
 - **Ye S.**<sup>*</sup>, Cuzzone J., Marcott S.A., Licciardi J., Ward D., Heyman J., and Quinn D., “A quantitative assessment of snow shielding effects on surface exposure dating from a western North American 10Be data compilation” _Quaternary Geochronology_, 2023
 - **Ye S.**<sup>*</sup>, and Peters S.E., “Bedrock geological map predictions for Phanerozoic fossil occurrences” _Paleobiology_, 2023
 - Wang Y., Kang Y.<sup>*</sup>, Liu H., Hou C., Zhou B., **Ye S.**, Liu Y., Rao J., Pei Z., Ye X., and Gao S., “Choosing GIS graduate programs from afar: Chinese students’ perspectives” _Transactions in GIS_, 2023
