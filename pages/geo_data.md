@@ -12,6 +12,7 @@
 [飓风路线 (1848-2018)](https://github.com/yeshancqcq/geographic_data/blob/main/world/hurricane.zip) |
 [潮汐](https://github.com/yeshancqcq/geographic_data/blob/main/world/Global_Tidal_Range_Classification.zip) |
 [活跃断层](https://github.com/yeshancqcq/geographic_data/blob/main/world/FaultsWorld.zip) |
+[沉积盆地](https://github.com/yeshancqcq/geographic_data/blob/main/world/Sed_Basins.zip) |
 [建成区](https://github.com/yeshancqcq/geographic_data/blob/main/world/UrbanWorld.zip) |
 [全球陆地生态区](https://pan.baidu.com/s/1dbPnosuEmV-atnoN67Ln6w) (提取码 i6pd) |
 [海洋生物多样性统计](https://pan.baidu.com/s/1ge53LyaVY92VTVCFiUieag) (提取码 pd9j) |
