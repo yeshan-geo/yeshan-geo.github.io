@@ -1,6 +1,7 @@
 ### Publications
 
 #### Papers
+- **Ye S.**<sup>*</sup>, "A Sensitivity Test on the Modifiable Areal Unit Problem in the Spatial Aggregation of Fossil Data" _Geosciences_, 2024.
 - Cao Z., Ma C.<sup>*</sup>, Tang W., Zhou Y., Zhong H., **Ye S.**, Wu K., Chen X., Zheng D., Hou L., Zhang Y., Hou M., "CoreViT: a new vision transformer model for lithology identification in cores" _Geoenergy Science and Engineering_, 2024.
 - **Ye S.**<sup>*</sup>, "Investigating the role of contemporary climate on fossil collecting bias" _Paleontological Research_, 2024.
 - Hou L., Ma C.<sup>*</sup>, Tang W., Zhou Y., **Ye S.**, Chen X., Zhang X., Yu C., Chen A., Zheng D., and Cao Z., "DDViT: Advancing lithology identification on FMI image logs through a dual modal transformer model with less information drop" _Geoenergy Science and Engineering_, 2024.
