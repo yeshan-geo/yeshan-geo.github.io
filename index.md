@@ -1,6 +1,6 @@
 ## About
 
-I am an R&D Engineer in the Department of Scientific Computing at the **National Institute of Clean-and-Low-Carbon Energy (NICE)** focusing on **AI for Science**. Before joining NICE, I was an assistant professor in the **Department of Computer Sciences and Artificial Intelligence (School of Information Engineering)** at the **China University of Geosciences (Beijing)**.
+I am an R&D Engineer in the Department of Scientific Intelligence and Computing at the **National Institute of Clean-and-Low-Carbon Energy (NICE)** focusing on **AI for Science**. Before joining NICE, I was an assistant professor in the **Department of Computer Sciences and Artificial Intelligence (School of Information Engineering)** at the **China University of Geosciences (Beijing)**.
 
 I have hybrid backgrounds in geoscience and computer science. My primary research interests lie in utilizing data-driven methods to explore and address Earth-related problems, particularly those in paleoclimate and paleogeography. I have also been involved in projects related to geoscientific software development, quantitative stratigraphy, and spatiotemporal analytics. In addition, I was a participant of the [Deep-time Digital Earth (DDE)](https://www.ddeworld.org/) project and co-founder of the [GISphere](https://gisphere.info/) educational platform.
 
