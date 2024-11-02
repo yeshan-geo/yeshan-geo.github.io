@@ -1,6 +1,7 @@
 ### Publications
 
 #### Papers
+- **Ye S.**, Wang J.<sup>*</sup>, Liu Q., Tarhan L.G., "International collaboration in geoscience lags behind other scientific disciplines" _Nature Geoscience_, 2024.
 - **Ye S.**<sup>*</sup>, "A Sensitivity Test on the Modifiable Areal Unit Problem in the Spatial Aggregation of Fossil Data" _Geosciences_, 2024.
 - Cao Z., Ma C.<sup>*</sup>, Tang W., Zhou Y., Zhong H., **Ye S.**, Wu K., Chen X., Zheng D., Hou L., Zhang Y., Hou M., "CoreViT: a new vision transformer model for lithology identification in cores" _Geoenergy Science and Engineering_, 2024.
 - **Ye S.**<sup>*</sup>, "Investigating the role of contemporary climate on fossil collecting bias" _Paleontological Research_, 2024.
