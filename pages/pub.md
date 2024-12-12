@@ -1,9 +1,10 @@
 ### Publications
 
 #### Papers
-- **Ye S.**, Wang J.<sup>*</sup>, Liu Q., Tarhan L.G., "International collaboration in geoscience lags behind other scientific disciplines" _Nature Geoscience_, 2024.
+- Gu Z., Li W., Zhou B., Wang Y., Chen Y., **Ye S.**, Wang K., Gu H., and Kang Y.<sup>*</sup>, "GISphere Knowledge Graph (GISphere-KG) for Geography Education: Recommending Graduate GIS Programs" _Transactions in GIS_, 2024.
+- **Ye S.**, Wang J.<sup>*</sup>, Liu Q., and Tarhan L.G., "International collaboration in geoscience lags behind other scientific disciplines" _Nature Geoscience_, 2024.
 - **Ye S.**<sup>*</sup>, "A Sensitivity Test on the Modifiable Areal Unit Problem in the Spatial Aggregation of Fossil Data" _Geosciences_, 2024.
-- Cao Z., Ma C.<sup>*</sup>, Tang W., Zhou Y., Zhong H., **Ye S.**, Wu K., Chen X., Zheng D., Hou L., Zhang Y., Hou M., "CoreViT: a new vision transformer model for lithology identification in cores" _Geoenergy Science and Engineering_, 2024.
+- Cao Z., Ma C.<sup>*</sup>, Tang W., Zhou Y., Zhong H., **Ye S.**, Wu K., Chen X., Zheng D., Hou L., Zhang Y., and Hou M., "CoreViT: a new vision transformer model for lithology identification in cores" _Geoenergy Science and Engineering_, 2024.
 - **Ye S.**<sup>*</sup>, "Investigating the role of contemporary climate on fossil collecting bias" _Paleontological Research_, 2024.
 - Hou L., Ma C.<sup>*</sup>, Tang W., Zhou Y., **Ye S.**, Chen X., Zhang X., Yu C., Chen A., Zheng D., and Cao Z., "DDViT: Advancing lithology identification on FMI image logs through a dual modal transformer model with less information drop" _Geoenergy Science and Engineering_, 2024.
 - He H., Ma C.<sup>*</sup>, **Ye S.**, Tang W., Zhou Y., Yu Z., Yi J., Hou L., Hou M., "Low resource Chinese geological text named entity recognition based on prompt learning" _Journal of Earth Science_, 2024
