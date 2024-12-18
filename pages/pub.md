@@ -1,7 +1,7 @@
 ### Publications
 
 #### Papers
-- Gu Z., Li W., Zhou B., Wang Y., Chen Y., **Ye S.**, Wang K., Gu H., and Kang Y.<sup>*</sup>, "GISphere Knowledge Graph (GISphere-KG) for Geography Education: Recommending Graduate GIS Programs" _Transactions in GIS_, 2024.
+- Gu Z., Li W., Zhou B., Wang Y., Chen Y., **Ye S.**, Wang K., Gu H., and Kang Y.<sup>*</sup>, "GISphere Knowledge Graph for Geography Education: Recommending Graduate Geographic Information System/Science Programs" _Transactions in GIS_, 2024.
 - **Ye S.**, Wang J.<sup>*</sup>, Liu Q., and Tarhan L.G., "International collaboration in geoscience lags behind other scientific disciplines" _Nature Geoscience_, 2024.
 - **Ye S.**<sup>*</sup>, "A Sensitivity Test on the Modifiable Areal Unit Problem in the Spatial Aggregation of Fossil Data" _Geosciences_, 2024.
 - Cao Z., Ma C.<sup>*</sup>, Tang W., Zhou Y., Zhong H., **Ye S.**, Wu K., Chen X., Zheng D., Hou L., Zhang Y., and Hou M., "CoreViT: a new vision transformer model for lithology identification in cores" _Geoenergy Science and Engineering_, 2024.
