@@ -1,6 +1,7 @@
 ### Publications
 
 #### Papers
+- Zhou Z.<sup>*</sup>, Duan X., Yu Y., Ma L., Moreno A., Xia Y., Chen L., **Ye S.** and Cong R., "Recent Advances and Applications of NMR Techniques in Plastic Characterizations" _Analytical Chemistry_, 2025.
 - Gu Z., Li W., Zhou B., Wang Y., Chen Y., **Ye S.**, Wang K., Gu H., and Kang Y.<sup>*</sup>, "GISphere Knowledge Graph for Geography Education: Recommending Graduate Geographic Information System/Science Programs" _Transactions in GIS_, 2024.
 - **Ye S.**, Wang J.<sup>*</sup>, Liu Q., and Tarhan L.G., "International collaboration in geoscience lags behind other scientific disciplines" _Nature Geoscience_, 2024.
 - **Ye S.**<sup>*</sup>, "A Sensitivity Test on the Modifiable Areal Unit Problem in the Spatial Aggregation of Fossil Data" _Geosciences_, 2024.
