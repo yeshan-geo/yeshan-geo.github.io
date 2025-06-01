@@ -6,9 +6,6 @@ I have hybrid backgrounds in geoscience and computer science. My primary rese
 
 I finished my Ph.D. at **University of Wisconsin-Madison** where I worked on [EarthCube](https://www.earthcube.org/) projects and was co-advised by [Shaun Marcott](https://geoscience.wisc.edu/people/marcott-shaun/) and [Shanan Peters](http://strata.geology.wisc.edu/). I hold a master's degree from the **University of Tulsa** supervised by [Bryan Tapp](https://faculty.utulsa.edu/faculty/bryan-tapp/) with a focus in computational geomechanics.
 
-## Research Interests
-
-Geoscientific Big Data, Geoscience Software Development, Data Quality in Earth Sciences, AI for Science (Paleoclimate, Macroevolution, etc.)
 
 ## Education
 
@@ -24,9 +21,9 @@ I developed (from scratch) and taught the following **new courses** at China Uni
 - DR040017: [Data Analysis and Visualization](https://yeshan-geo.github.io/pages/datavis) (300-level)
 - DR043229: [Computer Vision](https://yeshan-geo.github.io/pages/computer_vision) (300-level)
 
-At China University of Geosciences (Beijing), I supervised 15 students majoring in software engineering, computer science, data science, and artificial intelligence in completing their theses. The topics spanned a wide range, including but not limited to:
+At China University of Geosciences (Beijing), I supervised about 15 students majoring in software engineering, computer science, data science, and artificial intelligence in completing their theses. The topics spanned a wide range, including but not limited to:
 - data-driven paleoclimate research
-- deep learning for paleontological data quality assessment
+- deep learning for geoscientific data quality assessment
 - development of interactive instructional tools for structural geology classes
 - the modifiable areal unit problem in geological data analysis
 - assessment of extreme weather and driving safety
