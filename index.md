@@ -16,18 +16,25 @@ Geoscientific Big Data, Geoscience Software Development, Data Quality in Earth S
 - M.S. **University of Tulsa**, *Geosciences (Computational Geomechanics)*, 2016-18
 - B.S. **University of Michigan**, *Earth and Environmental Sciences*, 2013-15 & **The Pennsylvania State University**, *Geographic Information Sciences*, 2011-13
 
-## Teaching
+## Teaching and Mentoring
 
-#### China University of Geosciences (Beijing)
-- SR043268: [Introduction to Artificial Intelligence](https://yeshan-geo.github.io/pages/intro_ai)
-- DR040017: [Data Analysis and Visualization](https://yeshan-geo.github.io/pages/datavis)
-- DR043229: [Computer Vision](https://yeshan-geo.github.io/pages/computer_vision)
+I developed (from scratch) and taught the following **new courses** at China University of Geosciences (Beijing) from 2023 to 2024:
 
-#### University of Tulsa
-- GEOL 4083: GIS for Geologists (as temporary lecturer)
+- SR043268: [Introduction to Artificial Intelligence](https://yeshan-geo.github.io/pages/intro_ai) (100-level)
+- DR040017: [Data Analysis and Visualization](https://yeshan-geo.github.io/pages/datavis) (300-level)
+- DR043229: [Computer Vision](https://yeshan-geo.github.io/pages/computer_vision) (300-level)
 
-#### University of Michigan
-- UC 270: Social Justice (as teaching assistant)
+At China University of Geosciences (Beijing), I supervised 15 students majoring in software engineering, computer science, data science, and artificial intelligence in completing their theses. The topics spanned a wide range, including but not limited to:
+- data-driven paleoclimate research
+- deep learning for paleontological data quality assessment
+- development of interactive instructional tools for structural geology classes
+- the modifiable areal unit problem in geological data analysis
+- assessment of extreme weather and driving safety
+- multimodal generative models for urban studies
+- the application of artificial intelligence in music composition.
 
-#### Pennsylvania State University
-- GEOG 363: GIScience (as teaching assistant)
+Before that, I held temporary lecturer or teaching assistant roles for the following courses:
+
+- GEOL 4083: GIS for Geologists (University of Tulsa, as temporary lecturer)
+- UC 270: Social Justice (University of Michigan, as teaching assistant)
+- GEOG 363: GIScience (The Pennsylvania State University, as teaching assistant)
