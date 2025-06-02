@@ -17,6 +17,7 @@
 - SR043268: [人工智能专业导论](https://yeshan-geo.github.io/pages/intro_ai) (大一)
 - DR040017: [数据分析和可视化](https://yeshan-geo.github.io/pages/datavis) (大三)
 - DR043229: [计算机视觉](https://yeshan-geo.github.io/pages/computer_vision) (大三)
+
 在美国的教学经验：
 - GEOL4083: GIS的地质学应用 (塔尔萨大学，大四和研一选修课，临时讲师，2018年)
 - UC270: 社会公正 (密歇根大学，大三课程，助教，2014-15年)
