@@ -2,7 +2,7 @@
 
 #### Peer-reviewed publications
 
-<sup>†</sup>corresponding author；<sup>#</sup>Equal contribution
+<sup>†</sup>Corresponding author；<sup>#</sup>Equal contribution
 
 - Junbo Wang<sup>#</sup>, Haofeng Tan<sup>#</sup>, Bowen Liao, Albert Jiang, Teng Fei, Qixing Huang, Bing Zhou, Zhengzhong Tu, **Shan Ye**<sup>†</sup>, Yuhao Kang<sup>†</sup> (2026), SounDiT: Geo-Contextual Soundscape-to-Landscape generation, *CVPR*.
 - Peng Zhou, Jieming Chou<sup>†</sup>, **Shan Ye**, Mengting Sun, Jie Luo, Zhaoxiang Cao, Qian Yao, Hao Zhang, Muhammad Bilal, Li Dan (2025), Global assessment of vegetation ozone exposure using a remote Sensing-Based index: A new potential reference for critical levels and gross primary production simulations, *IEEE Transactions On Geoscience And Remote Sensing*.
