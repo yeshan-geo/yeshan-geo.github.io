@@ -4,7 +4,7 @@
 
 <sup>†</sup>Corresponding author；<sup>#</sup>Equal contribution
 
-- Junbo Wang<sup>#</sup>, Haofeng Tan<sup>#</sup>, Bowen Liao, Albert Jiang, Teng Fei, Qixing Huang, Bing Zhou, Zhengzhong Tu, **Shan Ye**<sup>†</sup>, Yuhao Kang<sup>†</sup> (2026), SounDiT: Geo-contextual soundscape-to-landscape generation, *CVPR*.
+- Junbo Wang<sup>#</sup>, Haofeng Tan<sup>#</sup>, Bowen Liao, Albert Jiang, Teng Fei, Qixing Huang, Bing Zhou, Zhengzhong Tu, **Shan Ye**<sup>†</sup>, Yuhao Kang<sup>†</sup> (2026), SounDiT: Geo-contextual soundscape-to-landscape generation, *Accepted*.
 - Peng Zhou, Jieming Chou<sup>†</sup>, **Shan Ye**, Mengting Sun, Jie Luo, Zhaoxiang Cao, Qian Yao, Hao Zhang, Muhammad Bilal, Li Dan (2025), Global assessment of vegetation ozone exposure using a remote sensing-based index: A new potential reference for critical levels and gross primary production simulations, *IEEE Transactions on Geoscience and Remote Sensing*.
 - **Shan Ye**<sup>†</sup><sup>#</sup>, Xuelei Duan<sup>†</sup><sup>#</sup>, Youlin Xia, Aitor Moreno, Rongjuan Cong, fuyue Tian, Yu Zhou, Lin Liu, Yue Yu, Peiqian Yu, Linfeng Chen, Shuai Shao, Congyun Liu, Linge Ma<sup>†</sup>, Zhe Zhou<sup>†</sup> (2025), AI-Optimized Quantitative RINEPT (AIOQ-RINEPT) 1D <sup>13</sup>C NMR for rapid polyolefin microstructure analysis, *ACS Omega*, 10(38), 44633-44641.
 - Zhining Gu, Wenwen Li, Bing Zhou, Yikang Wang, Yanbing Chen, **Shan Ye**, Kejin Wang, Hongkai Gu, Yuhao Kang<sup>†</sup> (2025), GISphere knowledge graph for geography education: Recommending graduate geographic information system/science programs, *Transactions in GIS*, 29(1), e13283.
