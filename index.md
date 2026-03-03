@@ -26,3 +26,9 @@ Before that, I held temporary lecturer or teaching assistant roles for the follo
 - GEOL 4083: GIS for Geologists (University of Tulsa, as temporary lecturer)
 - UC 270: Social Justice (University of Michigan, as teaching assistant)
 - GEOG 363: GIScience (The Pennsylvania State University, as teaching assistant)
+
+## Pop-sci books
+I authored the following non-academic pop-science books:
+- [A History of Earth Exploration](https://book.douban.com/subject/37456080/) (Hunan Science & Technology Press/Chinese National Geography，2025) ISBN: 9787571035969
+- [American History on the Road](https://book.douban.com/subject/36607910/) (Chongqing University Press，2023) ISBN: 9787568928366
+- [Fossil Hunters](zhihu.com/pub/book/19551098) (E-Book on Zhihu, 2018)
