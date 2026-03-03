@@ -27,6 +27,11 @@
 ## 研发经验（过去参与的项目）
 - [深时数字地球 (DDE)](https://deep-time.org/): 国际地质科学联合会（IUGS）认可的国际大型科学计划
 - [GeoGPT](https://geogpt.deep-time.org): 面向地质学家的大型语言模型及相关智能体
-- [Sparrow](https://sparrow-data.org/): 一款网页端的轻量化地球化学数据管理软件平台
-- [Macrostrat](https://macrostrat.org/): 一个包含岩性和地层信息的地层学空间数据库
-- [GeoDeepDive (xDD)](https://geodeepdive.org/): 一个由机器学习驱动的数据抽取平台和在线数字图书馆
+- [Sparrow](https://sparrow-data.org/): 网页端的轻量化地球化学数据管理软件平台
+- [Macrostrat](https://macrostrat.org/): 包含岩性和地层信息的地层学空间数据库
+- [GeoDeepDive (xDD)](https://geodeepdive.org/): 由机器学习驱动的数据抽取平台和在线数字图书馆
+
+## 科普书
+- [地球探索史话](https://book.douban.com/subject/37456080/) (湖南科学技术出版社/中国国家地理·图书，2025) ISBN: 9787571035969 【坪山自然博物图书奖“十本评委会推荐图书”】
+- [路上的美国史](https://book.douban.com/subject/36607910/) (重庆大学出版社，2023) ISBN: 9787568928366
+- [化石猎人](zhihu.com/pub/book/19551098) (知乎电子书, 2018)
