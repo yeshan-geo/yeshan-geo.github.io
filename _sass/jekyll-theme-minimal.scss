@@ -35,8 +35,12 @@ h3 {
   font-size:25px;
 }
 
-h4, h5, h6 {
+h4 {
   font-size:24px;
+}
+
+h5, h6 {
+  font-size:20px;
 }
 
 h3, h4, h5, h6 {
@@ -65,7 +69,7 @@ a:hover small {
 }
 
 .wrapper {
-  width:860px;
+  width:500px;
   margin:0 auto;
 }
 
@@ -161,7 +165,7 @@ ul.downloads {
 
 .downloads a {
   line-height:1;
-  font-size:10px;
+  font-size:11px;
   color:#676767;
   display:block;
   text-align:center;
@@ -189,7 +193,7 @@ strong {
 }
 
 .downloads a strong {
-  font-size:10px;
+  font-size:11px;
   display:block;
   color:#4b5c63;
 }

@@ -1,6 +1,6 @@
 ### Publications
 
-#### Peer-reviewed publications
+##### Peer-reviewed publications
 
 <sup>†</sup>Corresponding author；<sup>#</sup>Equal contribution
 
@@ -23,7 +23,7 @@
 - Yikang Wang, Yuhao Kang, Haokun Liu, Ce Hou, Bing Zhou, **Shan Ye**, Yuyan Liu, Jinmeng Rao, Zhenghao Pei, Xiang Ye, Song Gao<sup>†</sup> (2023), Choosing GIS graduate programs from afar: Chinese students' perspectives, *Transactions in GIS*, 27(2), 450-475.
 - Yuhao Kang, Kunlin Wu, Song Gao<sup>†</sup>, Ignavier Ng, Jinmeng Rao, **Shan Ye**, Fan Zhang, Teng Fei (2022), STICC: A multivariate spatial clustering method for repeated geographic pattern discovery with consideration of spatial contiguity, *International Journal of Geographical Information Science*, 36(8), 1518-1549.
 
-#### Thesis
+##### Thesis
 
 -   Ph.D. Dissertation (2022): *A quantitative investigation of large geoscientific datasets: how records of geochronology and macroevolution are distorted by paleoclimate, paleoenvironment, and sediment preservation*.
 -   M.S. Thesis (2018): *Finite element method analysis of multi-layer buckling systems with heterogeneous matrices*.
