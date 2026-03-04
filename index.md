@@ -13,9 +13,4 @@ I obtained my Ph.D. degree at **University of Wisconsin-Madison** where I was co
 - M.S. **University of Tulsa**, *Geosciences (Computational Geomechanics)*, 2016-18
 - B.S. **University of Michigan**, *Earth and Environmental Sciences*, 2013-15 & **The Pennsylvania State University**, *Geographic Information Sciences*, 2011-13
 
-### Pop-sci Books
 
-I authored the following non-academic pop-science books:
-- [A History of Earth Exploration](https://book.douban.com/subject/37456080/) (Hunan Science & Technology Press/Chinese National Geography，2025) ISBN: 9787571035969
-- [American History on the Road](https://book.douban.com/subject/36607910/) (Chongqing University Press，2023) ISBN: 9787568928366
-- [Fossil Hunters](zhihu.com/pub/book/19551098) (E-Book on Zhihu, 2018)

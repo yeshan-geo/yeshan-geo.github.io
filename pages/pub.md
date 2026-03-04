@@ -27,3 +27,10 @@
 
 -   Ph.D. Dissertation (2022): *A quantitative investigation of large geoscientific datasets: how records of geochronology and macroevolution are distorted by paleoclimate, paleoenvironment, and sediment preservation*.
 -   M.S. Thesis (2018): *Finite element method analysis of multi-layer buckling systems with heterogeneous matrices*.
+
+##### Pop-sci Books
+
+I authored the following non-academic pop-science books:
+- [A History of Earth Exploration](https://book.douban.com/subject/37456080/) (Hunan Science & Technology Press/Chinese National Geography，2025) ISBN: 9787571035969
+- [American History on the Road](https://book.douban.com/subject/36607910/) (Chongqing University Press，2023) ISBN: 9787568928366
+- [Fossil Hunters](zhihu.com/pub/book/19551098) (E-Book on Zhihu, 2018)
