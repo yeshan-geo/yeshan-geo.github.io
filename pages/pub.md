@@ -4,15 +4,15 @@
 
 <sup>†</sup>Corresponding author；<sup>#</sup>Equal contribution
 
-Junbo Wang<sup>#</sup>, Haofeng Tan<sup>#</sup>, Bowen Liao, Albert Jiang, Teng Fei, Qixing Huang, Bing Zhou, Zhengzhong Tu, **Shan Ye**<sup>†</sup>, Yuhao Kang<sup>†</sup> (2026), SounDiT: Geo-contextual soundscape-to-landscape generation, *Accepted*.
+Junbo Wang<sup>#</sup>, Haofeng Tan<sup>#</sup>, Bowen Liao, Albert Jiang, Teng Fei, Qixing Huang, Bing Zhou, Zhengzhong Tu, **Shan Ye**<sup>†</sup>, Yuhao Kang<sup>†</sup> (2026), SounDiT: Geo-contextual soundscape-to-landscape generation, <i><font color="#23c3e6">CVPR</font></i>.
 
-Peng Zhou, Jieming Chou<sup>†</sup>, **Shan Ye**, Mengting Sun, Jie Luo, Zhaoxiang Cao, Qian Yao, Hao Zhang, Muhammad Bilal, Li Dan (2025), Global assessment of vegetation ozone exposure using a remote sensing-based index: A new potential reference for critical levels and gross primary production simulations, <i><font color="#23c3e6">IEEE Transactions on Geoscience and Remote Sensing</font></i>.
+Peng Zhou, Jieming Chou<sup>†</sup>, **Shan Ye**, Mengting Sun, Jie Luo, Zhaoxiang Cao, Qian Yao, Hao Zhang, Muhammad Bilal, Li Dan (2026), Global assessment of vegetation ozone exposure using a remote sensing-based index: A new potential reference for critical levels and gross primary production simulations, <i><font color="#23c3e6">IEEE Transactions on Geoscience and Remote Sensing</font></i>, 64, 4401318.
+
+Xinyi Zhang, Hanting Zhong<sup>†</sup>, Xin Li<sup>†</sup>, Hui Chen, **Shan Ye**, Mingcai Hou, Chao Ma (2026), Application of machine learning in radiolarian taxonomy: A case study on Early Cretaceous Turbocapsula lineage, <i><font color="#23c3e6">Palaeoworld</font></i>, 35(1), 201005.
 
 **Shan Ye**<sup>†</sup><sup>#</sup>, Xuelei Duan<sup>†</sup><sup>#</sup>, Youlin Xia, Aitor Moreno, Rongjuan Cong, fuyue Tian, Yu Zhou, Lin Liu, Yue Yu, Peiqian Yu, Linfeng Chen, Shuai Shao, Congyun Liu, Linge Ma<sup>†</sup>, Zhe Zhou<sup>†</sup> (2025), AI-Optimized Quantitative RINEPT (AIOQ-RINEPT) 1D <sup>13</sup>C NMR for rapid polyolefin microstructure analysis, <i><font color="#23c3e6">ACS Omega</font></i>, 10(38), 44633-44641.
 
 Zhining Gu, Wenwen Li, Bing Zhou, Yikang Wang, Yanbing Chen, **Shan Ye**, Kejin Wang, Hongkai Gu, Yuhao Kang<sup>†</sup> (2025), GISphere knowledge graph for geography education: Recommending graduate geographic information system/science programs, <i><font color="#23c3e6">Transactions in GIS</font></i>, 29(1), e13283.
-
-Xinyi Zhang, Hanting Zhong<sup>†</sup>, Xin Li<sup>†</sup>, Hui Chen, **Shan Ye**, Mingcai Hou, Chao Ma (2025), Application of machine learning in radiolarian taxonomy: A case study on Early Cretaceous Turbocapsula lineage, <i><font color="#23c3e6">Palaeoworld</font></i>, 201005.
 
 Yanbing Chen, Jonathan K Nelson, Bing Zhou, Ryan Zhenqi Zhou, **Shan Ye**, Haokun Liu, Zhining Gu, Armita Kar, Hoeyun Kwon, Pengyu Chen, Maoran Sun, Yuhao Kang<sup>†</sup> (2025), Where are GIScience faculty hired from? Analyzing faculty mobility and research themes through hiring networks, <i><font color="#23c3e6">Cartography and Geographic Information Science</font></i>, 1-25.
 
