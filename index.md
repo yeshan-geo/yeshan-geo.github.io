@@ -17,7 +17,9 @@ B.S. **University of Michigan**, *Earth and Environmental Sciences*, 2013-15 &
 
 #### Research domains
 
-Deep Learning Algorithm and AI for Science (e.g. [AIOQ-RINEPT](https://pubmed.ncbi.nlm.nih.gov/41048790/), [AI-Powered Microscope Image Analysis System](https://sem.ceic.com/), [SounDiT](https://gisense.github.io/SounDiT-Page/), etc.)
+Deep Learning, Computer Vision, LLMs, Multi-modal Algorithm
+
+AI for Science
 
 Geoscientific Big Data
 
@@ -29,7 +31,13 @@ Quantitative Stratigraphy and Data-Driven Paleoclimate
 
 #### Participated projects
 
-[Deep-time Digital Earth (DDE)](https://deep-time.org/): an IUGS-recognized international big science program.
+[AIOQ-RINEPT](https://pubmed.ncbi.nlm.nih.gov/41048790/): an AI-driven method that enhances the nuclear magnetic resonance sensitivity for polyolefins by a factor of 7.5. 
+
+[AI-Powered Microscope Image Analysis System](https://sem.ceic.com/): a platform enabling fast and accurate analysis for SEM imagery. 
+
+[SounDiT](https://gisense.github.io/SounDiT-Page/): a multi-modal generative model for geo-contextural soundscape-to-landscape tasks.
+
+[Deep-time Digital Earth (DDE)](https://deep-time.org/): an IUGS-recognized international big science program. 
 
 [GeoGPT](https://geogpt.deep-time.org): a large language model for geoscientists.
 
